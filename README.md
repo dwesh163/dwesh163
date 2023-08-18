@@ -7,8 +7,8 @@
 ### 📖 About me
 
 
-hello i am Dwesh and i live in switzerland. I am in my first year of <br>apprenticeship at <a href="https://www.epfl.ch/fr/" target="_blank">EPFL.</a>
-I love coding and maging donuts. I've been <br>coding since I was 9.<br>
+Hello I am Dwesh and I live in switzerland. I am in my first year of <br>apprenticeship at <a href="https://www.epfl.ch/fr/" target="_blank">EPFL.</a>
+I love coding and. I've been <br>coding since I was 9.<br>
 
 <br>
 
