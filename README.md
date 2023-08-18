@@ -2,6 +2,7 @@
    <h1>Hi there, I'm <a color="red">Dwesh163</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 </div>
+<br>
 
 ### 📖 About me
 
@@ -9,7 +10,7 @@
 hello i am Dwesh and i live in switzerland. I am in my first year of <br>apprenticeship at <a href="https://www.epfl.ch/fr/" target="_blank">EPFL.</a>
 I love coding and maging donuts. I've been <br>coding since I was 9.<br>
 
-
+<br>
 
 ### 📊 Github Stats
 
@@ -17,7 +18,7 @@ I love coding and maging donuts. I've been <br>coding since I was 9.<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=dwesh163\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&heigt=230px)
 
-
+<br>
 
 
 ### 🔨 Languages and Tools:
