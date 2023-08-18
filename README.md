@@ -1,6 +1,19 @@
-# Welcome to my GitHub
+<div align="center">
+   <h1>Hi there, I'm <a color="red">Dwesh163</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-hello I'm a dev
+</div>
+
+
+
+
+### 📊 Github Stats
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=dwesh163\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&heigt=230px)
+
+
+
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -12,6 +25,11 @@ hello I'm a dev
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 
+
+
+
+
+</a>
 
 
 
