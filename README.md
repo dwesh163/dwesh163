@@ -14,9 +14,8 @@ I love coding and. I've been <br>coding since I was 9.<br>
 
 ### 📊 Github Stats
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dwesh163\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=dwesh163\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&heigt=230px)
 
 <br>
 
