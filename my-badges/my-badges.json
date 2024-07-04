@@ -37,8 +37,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS/commit/2532681fb8a51b3e5d2b0b3e516faf2199dead71\">2532681fb8a51b3e5d2b0b3e516faf2199<strong>dead</strong>71</a>",
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/dwesh163/this-repo-has-a-single-goal/commit/d85821a6b0e7ea232620ccfd0174d51f84dead7c\">d85821a6b0e7ea232620ccfd0174d51f84<strong>dead</strong>7c</a>\n- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS/commit/2532681fb8a51b3e5d2b0b3e516faf2199dead71\">2532681fb8a51b3e5d2b0b3e516faf2199<strong>dead</strong>71</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/dead-commit/dead-commit.png?raw=true"
   },
   {
@@ -65,8 +65,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 832 times)\n2. commit (used 733 times)\n3. [fix] (used 550 times)\n4. to (used 205 times)\n5. in (used 203 times)",
+    "desc": "My favorite word is \"commit\".",
+    "body": "My favorite commit message words are:\n\n1. commit (used 1384 times)\n2. [add] (used 835 times)\n3. [fix] (used 551 times)\n4. to (used 205 times)\n5. in (used 204 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -82,5 +82,19 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "yeti",
+    "tier": 0,
+    "desc": "I found the yeti!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/HackerHelp/commit/ad6d5d98461cfe89a9254bd2161abb590ded5340\">ad6d5d9</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/yeti/yeti.png?raw=true"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/WebFileSystem/commit/38fb4201931a97503247a402d025b2208ccd50e2\">38fb420</a>: 🔄📝🔧🎨📦📏",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true"
   }
 ]
