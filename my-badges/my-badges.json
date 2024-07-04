@@ -10,7 +10,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dwesh163/tableau-de-notes/commit/ab0d771d54e5b15507362c8300be9ba655664c8e\"><strong>ab</strong>0d771d54e5b15507362c8300be9ba655664c8e</a>",
+    "body": "- <a href=\"https://github.com/dwesh163/this-repo-has-a-single-goal/commit/aba3f2fdf3bda2f4dbd920c59c2d74bdfd0e77ad\"><strong>ab</strong>a3f2fdf3bda2f4dbd920c59c2d74bdfd0e77ad</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 832 times)\n2. [fix] (used 550 times)\n3. to (used 205 times)\n4. in (used 203 times)\n5. [update] (used 161 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 832 times)\n2. commit (used 733 times)\n3. [fix] (used 550 times)\n4. to (used 205 times)\n5. in (used 203 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
