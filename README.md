@@ -28,6 +28,7 @@ I love coding and. I've been <br>coding since I was 9.<br>
 <a href="my-badges/public-keys-1.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/yeti.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/yeti/yeti.png?raw=true" alt="I found the yeti!" title="I found the yeti!" width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
+<a href="my-badges/chore-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
 <!-- my-badges end -->
 
 ### 📊 Github Stats

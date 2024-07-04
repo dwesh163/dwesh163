@@ -96,5 +96,12 @@
     "desc": "I used only emojis in my commit message.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/WebFileSystem/commit/38fb4201931a97503247a402d025b2208ccd50e2\">38fb420</a>: 🔄📝🔧🎨📦📏",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/AllReplicas/commit/10ad2ebe84e750cf2f4dbfb857897adc51878e1c\">10ad2eb</a>: chore",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
   }
 ]
