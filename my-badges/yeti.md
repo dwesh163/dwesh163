@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/yeti/yeti.png?raw=true" alt="I found the yeti!" title="I found the yeti!" width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/yeti/yeti.png?raw=true" alt="I found the yeti!" title="I found the yeti!" width="128">
 <strong>I found the yeti!</strong>
 <br><br>
 
