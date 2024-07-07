@@ -4,49 +4,49 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/dwesh163/WLed-UI/commit/adb4e47f5e7773ca539a0d524dc304a6084e0c6f\"><strong>a</strong>db4e47f5e7773ca539a0d524dc304a6084e0c6f</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/dwesh163/tableau-de-notes/commit/ab0d771d54e5b15507362c8300be9ba655664c8e\"><strong>ab</strong>0d771d54e5b15507362c8300be9ba655664c8e</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/WLed-UI/commit/3c4ebbf2e06896f07c3d3638fb4b71deeb2fb255\">3c4ebbf</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/a4396ea4bd89dfe410a8c7c4b1a4d7c94192f773\">a4396ea</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/1396b01e343232f377ef7c2ba5f1eb556c78cf93\">1396b01</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/5dfac1a03b81d7470265d307ad1ea78e4cd46afd\">5dfac1a</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/57ae881e6b70113cc9f632da8dfe403fa4e99505\">57ae881</a>\n- <a href=\"https://github.com/dwesh163/music/commit/07ec28649bc2f148de33fbb7a404d4e1db6b89cf\">07ec286</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Calendar-v2/commit/42b8206713deee8dd20444f38da92bd1ac7fd33c\">42b8206</a>\n- <a href=\"https://github.com/dwesh163/Calendar-v2/commit/8e0d1eb71e43643016030c15333d44bc361d5256\">8e0d1eb</a>\n- <a href=\"https://github.com/dwesh163/music/commit/ef86c2453bed860b7d2ae83ad6f70da0b526cc47\">ef86c24</a>\n- <a href=\"https://github.com/dwesh163/music/commit/0cd00945ece9ccd1494b555139585781a2a2c6d4\">0cd0094</a>\n- <a href=\"https://github.com/dwesh163/music/commit/918af1df29fad89d5d65007794ce4b92f59f733f\">918af1d</a>\n- <a href=\"https://github.com/dwesh163/music/commit/a2548cc0cd0e4be3e6cd0fbf082ebd0cae790a07\">a2548cc</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/test/commit/1c084ee257d98b94fc10465176a5f8370594925c\">1c084ee</a>\n- <a href=\"https://github.com/dwesh163/Calendar-v2/commit/42b8206713deee8dd20444f38da92bd1ac7fd33c\">42b8206</a>\n- <a href=\"https://github.com/dwesh163/Calendar-v2/commit/8e0d1eb71e43643016030c15333d44bc361d5256\">8e0d1eb</a>\n- <a href=\"https://github.com/dwesh163/music/commit/ef86c2453bed860b7d2ae83ad6f70da0b526cc47\">ef86c24</a>\n- <a href=\"https://github.com/dwesh163/music/commit/0cd00945ece9ccd1494b555139585781a2a2c6d4\">0cd0094</a>\n- <a href=\"https://github.com/dwesh163/music/commit/918af1df29fad89d5d65007794ce4b92f59f733f\">918af1d</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/WeatherCard/commit/0b6c0d9e52729b8b0db06d2b6ee1213a639642b3\">0b6c0d9</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 2 times.",
     "body": "- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS/commit/2532681fb8a51b3e5d2b0b3e516faf2199dead71\">2532681fb8a51b3e5d2b0b3e516faf2199<strong>dead</strong>71</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/dead-commit/dead-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/raspberrypi-Ansible/commit/7ae6725ccc3b5e0465fae24c509738f2c5622ef5\">7ae6725</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "public-keys-2",
@@ -60,55 +60,55 @@
     "tier": 0,
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/6\">#6</a>: Feature/home\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/7\">#7</a>: Feature/quizz slug\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/8\">#8</a>: Feature/results\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/9\">#9</a>: Feature/sessions\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/10\">#10</a>: Feature/quizzs welcome\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/11\">#11</a>: Feature/sessions\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/12\">#12</a>: Feature/style\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/13\">#13</a>: Feature/login\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/14\">#14</a>: [add] share\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/17\">#17</a>: [add] share\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/18\">#18</a>: Feature/share session\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/19\">#19</a>: Feature/user panel\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/20\">#20</a>: Feature/link shortener\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/21\">#21</a>: [refactor] sessions -> rooms\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/26\">#26</a>: Feature/upgarde rooms menu\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/27\">#27</a>: Feature/upgarde rooms menu\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/28\">#28</a>: [add] Metrics\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/36\">#36</a>: Feature/create quizz\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/37\">#37</a>: Feature/display user",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/this-is-fine/this-is-fine.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
     "body": "My favorite commit message words are:\n\n1. [add] (used 835 times)\n2. [fix] (used 551 times)\n3. to (used 205 times)\n4. in (used 204 times)\n5. [update] (used 162 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "rebel-coder",
     "tier": 0,
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/rebel-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
   },
   {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/public-keys/public-keys-1.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   },
   {
     "id": "yeti",
     "tier": 0,
     "desc": "I found the yeti!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/HackerHelp/commit/ad6d5d98461cfe89a9254bd2161abb590ded5340\">ad6d5d9</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/yeti/yeti.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/yeti.png"
   },
   {
     "id": "emoji-only-commit",
     "tier": 0,
     "desc": "I used only emojis in my commit message.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/WebFileSystem/commit/38fb4201931a97503247a402d025b2208ccd50e2\">38fb420</a>: 🔄📝🔧🎨📦📏",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/emoji-only-commit/emoji-only-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/AllReplicas/commit/10ad2ebe84e750cf2f4dbfb857897adc51878e1c\">10ad2eb</a>: chore",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/chore-commit/chore-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/dwesh163/Calendar/commit/07ce59d901cafefb7a790c7e5985afe82b22de77\">07ce59d901<strong>cafe</strong>fb7a790c7e5985afe82b22de77</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cafe-commit/cafe-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   }
 ]
