@@ -1,9 +1,27 @@
-<img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 26 sequential fixes." title="I did 26 sequential fixes." width="128">
-<strong>I did 26 sequential fixes.</strong>
+<img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 32 sequential fixes." title="I did 32 sequential fixes." width="128">
+<strong>I did 32 sequential fixes.</strong>
 <br><br>
 
 Commits:
 
+- <a href="https://github.com/dwesh163/pictures/commit/bc15836a4df5fe7502166ec6e26d059f2f8be330">bc15836</a>: fix: Update join/page.tsx to handle user join request
+
+The join/page.tsx file has been updated to handle user join requests by checking the validity of the provided token and the user's information. If the token is valid and the user's information is complete, they will be redirected to the home page. Otherwise, they will be redirected to the sign-in page. This change ensures a smooth and secure user join process.
+- <a href="https://github.com/dwesh163/pictures/commit/a281b9ed78690f42bba8aec35a519777def47915">a281b9e</a>: fix: Update layout to adjust main padding-top
+
+The layout component has been updated to adjust the padding-top of the main content area. This change ensures proper spacing and alignment of the content, improving the overall visual appearance of the page.
+- <a href="https://github.com/dwesh163/pictures/commit/c9942db7aacaa5939815a56b896cf5874da7f536">c9942db</a>: fix: Update join page to handle user join request
+
+The join page has been updated to handle user join requests by checking the validity of the provided token and the user's information. If the token is valid and the user's information is complete, they will be redirected to the home page. Otherwise, they will be redirected to the sign-in page. This change ensures a smooth and secure user join process.
+- <a href="https://github.com/dwesh163/pictures/commit/40003aec09f27fe0a51bb07650a28e3dc39ef2db">40003ae</a>: fix: Update phone number validation in signup page
+
+The phone number validation in the signup page has been updated to check for a length of 12 digits instead of checking if it starts with '0'. This change ensures that only valid phone numbers are accepted during the signup process, improving data integrity and user experience.
+- <a href="https://github.com/dwesh163/pictures/commit/711708926b879f181e9e398e15e5d3133399a9f5">7117089</a>: fix: Update npm dependencies for net and tls packages
+
+The npm dependencies for the 'net' and 'tls' packages have been updated to their latest versions. This change ensures that the application is using the most up-to-date and secure versions of these packages, improving overall stability and security.
+- <a href="https://github.com/dwesh163/pictures/commit/857d614a80199ade8f8e29ec736a5b2502f810dc">857d614</a>: fix: Update notifications table in init.sql
+
+The 'notifications' table has been added to the 'init.sql' file. This change ensures that the database schema includes a table for storing notifications. The table has columns for 'notificationId', 'userId', 'message', 'link', 'type', 'isRead', and 'createdAt'. This addition allows the application to handle and display notifications to users, enhancing the user experience.
 - <a href="https://github.com/dwesh163/pictures/commit/8fc8b99ab2ca0a0e2c3d3ff273ba08732bb7a820">8fc8b99</a>: fix: Update variable name from 'name' to 'userName' in galleries.ts
 - <a href="https://github.com/dwesh163/pictures/commit/5abb48dbb2347a69b65f778c550390b1b84b5b32">5abb48d</a>: fix: Update birthday field in AccountForm component
 
