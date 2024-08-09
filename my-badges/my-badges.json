@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/608de8bbd1cd71012e1c363920a14a8afcd688db\">608de8b</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/515c0ee46942061e1e3d73fa33e053f9c4e94362\">515c0ee</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/06f13cca1e252dcef6dbf59aac25c109a52e8dcf\">06f13cc</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/f398a25012c8893a239310a1e62fe9f7203dd613\">f398a25</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/e393bacaf532ecab0dc6d45a02d13b1deb9f708d\">e393bac</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/bcb779a05964dd06a1f7ed4eef1c31836861bd52\">bcb779a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/d0e7087d18b16af9f90dbc3dfe2f5662c4374500\">d0e7087</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/387838b6815ae67b8838a9f59d31906cab07db6d\">387838b</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/88320cb8aa60aedbb4d6a98a68a7d93e066d3889\">88320cb</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/4de687da04533586c82a3ab271ba8e35dd496f97\">4de687d</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/3f19ac7223797428f79e3af3d2f389aaeddeed1a\">3f19ac7</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/608de8bbd1cd71012e1c363920a14a8afcd688db\">608de8b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/9275c5a5627723061d472860609da4faf98f0a43\">9275c5a</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/aab95e92101c87093a5c91c468dff25b7d6ae9b0\">aab95e9</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/10537b5412273d4b2d539bf874be8370766bd973\">10537b5</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/88258221879c1d00a9f1bbef54fe2f09a8adf4e1\">8825822</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/de3987ba2c1ff96144aa407daa2b7e62462730fb\">de3987b</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/718d8a77054dcbdc8aa96880e656ac7c28e3c0e2\">718d8a7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/c0e6c6df9edc7653662f6118f5cc4693c2b26b20\">c0e6c6d</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/53928008183edfbb02129072578f91b2ed4d527f\">5392800</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/db802f76912d2d04be26193f403a07f3b034a698\">db802f7</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/37788bd2a56b3b2d88db186e97420ba35b65eb21\">37788bd</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/ab90f38eda45e4c34754051980a555fa4b2ff1ea\">ab90f38</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/36cb3d8826bb0fb22502d9024761200ce3706ceb\">36cb3d8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 837 times)\n2. the (used 584 times)\n3. [fix] (used 551 times)\n4. to (used 418 times)\n5. in (used 367 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 837 times)\n2. the (used 734 times)\n3. [fix] (used 551 times)\n4. to (used 456 times)\n5. and (used 396 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
