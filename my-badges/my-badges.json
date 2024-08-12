@@ -65,8 +65,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 837 times)\n2. the (used 734 times)\n3. [fix] (used 551 times)\n4. to (used 459 times)\n5. and (used 396 times)",
+    "desc": "My favorite word is \"the\".",
+    "body": "My favorite commit message words are:\n\n1. the (used 934 times)\n2. [add] (used 837 times)\n3. [fix] (used 551 times)\n4. to (used 524 times)\n5. in (used 448 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
