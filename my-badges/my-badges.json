@@ -45,7 +45,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/raspberrypi-Ansible/commit/7ae6725ccc3b5e0465fae24c509738f2c5622ef5\">7ae6725</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/monitoring/commit/7a1f583eb83dea800172e97dbe5050bebf6a4212\">7a1f583</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1065 times)\n2. [add] (used 838 times)\n3. to (used 655 times)\n4. and (used 570 times)\n5. [fix] (used 551 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1065 times)\n2. [add] (used 838 times)\n3. to (used 657 times)\n4. and (used 596 times)\n5. [fix] (used 551 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
