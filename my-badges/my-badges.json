@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/61da93c0f0b9e77aa6ea308a14e4bc43e737ca71\">61da93c</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/6cbd7a43e52d1b6cdf16becfee245fb0da3cc537\">6cbd7a4</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/e3fb8562627d8ce8c47d7effa6d79f3b4541b964\">e3fb856</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/a660f5ddd9bbe53db5d38a5d13dce385806155f8\">a660f5d</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/c08c4eeef77a18dd288afa2cdc694a928ecd5caf\">c08c4ee</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/50f825ac66a324b4db7dbabe8eaf9b0779c5365a\">50f825a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/48df90b0d532f8ce2e8abf05032005f4f65f6a42\">48df90b</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/25852e3a75bdd9a9dbfa7c42b84ad15a0a374f2f\">25852e3</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/50ef3d0636c448d19319991f6956f3ef4436dec8\">50ef3d0</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/11044a19c8c9f0898d53d220402eb476abe2ebbf\">11044a1</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/1662fb698973caf0329995e0234fd34b70ead3eb\">1662fb6</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/449409dc930791dc5cc6efa287cb52b02c57c35d\">449409d</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1084 times)\n2. [add] (used 866 times)\n3. to (used 770 times)\n4. and (used 659 times)\n5. [fix] (used 572 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1085 times)\n2. [add] (used 866 times)\n3. to (used 787 times)\n4. and (used 671 times)\n5. [fix] (used 572 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
