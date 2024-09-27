@@ -53,7 +53,7 @@
     "tier": 2,
     "desc": "I have two public keys",
     "body": "",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
     "id": "this-is-fine",
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1097 times)\n2. [add] (used 866 times)\n3. to (used 860 times)\n4. and (used 717 times)\n5. in (used 580 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1097 times)\n2. to (used 867 times)\n3. [add] (used 866 times)\n4. and (used 719 times)\n5. in (used 583 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
