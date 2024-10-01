@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/module_347/commit/24fc2880e05328f64b33a0a9cc2145e5b8c5a92b\">24fc288</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/945ce16a5f03b786e9649d9d4c1b40ff3f5e78ec\">945ce16</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/593dbe8b1558a14631dffa74637cc43ccb1fe7c1\">593dbe8</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/27c281a5f458aa56357079205d1459a8c827ef79\">27c281a</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/f7629e15802a8c6e3240a31cdf242cdc250efa89\">f7629e1</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/6ea9dabf043e3e780ceb5415b54cb5b44f714df3\">6ea9dab</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/music-V3/commit/0659adc70c8c51092388bc5060e101f0c5a5964f\">0659adc</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/203821ba1bb804b4df07bd350aad62520e43bd6a\">203821b</a>\n- <a href=\"https://github.com/dwesh163/module_347/commit/96273033feea12db258c663dd5f88ad76e74722f\">9627303</a>\n- <a href=\"https://github.com/dwesh163/module_347/commit/24fc2880e05328f64b33a0a9cc2145e5b8c5a92b\">24fc288</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/945ce16a5f03b786e9649d9d4c1b40ff3f5e78ec\">945ce16</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/593dbe8b1558a14631dffa74637cc43ccb1fe7c1\">593dbe8</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/efb0ef0037c590fb6e87460f66bd54c20b68fbcb\">efb0ef0</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/1842b9895f59ee9412c636bf345920eb7e44a9a0\">1842b98</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/41d99823ce152e56579c695aec3658de75c4ad9f\">41d9982</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/bdd35cd696c77d2a2326dc8cfefb02cce34cb1ae\">bdd35cd</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/d383496326ab424dd6447a720c8f7dff442919fe\">d383496</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/e4347820dc690341e4e88a814ee6063f39e11c25\">e434782</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/music-V3/commit/9553326dbe115457e87da2cdc9a6dda09c46a562\">9553326</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/1a3fa0ac2b9096c0425b644711a28d911b34ab08\">1a3fa0a</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/9c1757079811e878914a14717789a672cababf8d\">9c17570</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/d8d83eb30755ff46544e7037837dc1b4636f893e\">d8d83eb</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/b93ff32c3b4eeccd65720d463916a54aa6b9e5c5\">b93ff32</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/08929176147d688a5ed60f2dc53dea6f4b5cad08\">0892917</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1097 times)\n2. to (used 878 times)\n3. [add] (used 866 times)\n4. and (used 730 times)\n5. in (used 585 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1097 times)\n2. to (used 887 times)\n3. [add] (used 866 times)\n4. and (used 756 times)\n5. in (used 590 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
