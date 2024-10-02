@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/music-V3/commit/0659adc70c8c51092388bc5060e101f0c5a5964f\">0659adc</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/203821ba1bb804b4df07bd350aad62520e43bd6a\">203821b</a>\n- <a href=\"https://github.com/dwesh163/module_347/commit/96273033feea12db258c663dd5f88ad76e74722f\">9627303</a>\n- <a href=\"https://github.com/dwesh163/module_347/commit/24fc2880e05328f64b33a0a9cc2145e5b8c5a92b\">24fc288</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/945ce16a5f03b786e9649d9d4c1b40ff3f5e78ec\">945ce16</a>\n- <a href=\"https://github.com/dwesh163/docker-manager/commit/593dbe8b1558a14631dffa74637cc43ccb1fe7c1\">593dbe8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/49b27c1900402df7f43f50be345f28ccb688485d\">49b27c1</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/f48520fc6c4721143c3164cdb555a2b48c514e40\">f48520f</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/cdd4c6617bdaf20c5ae38a7955db68914be88761\">cdd4c66</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/8e0dda0594e771f567fdce8fbe07cdfe429f038f\">8e0dda0</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/0659adc70c8c51092388bc5060e101f0c5a5964f\">0659adc</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/203821ba1bb804b4df07bd350aad62520e43bd6a\">203821b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/music-V3/commit/9553326dbe115457e87da2cdc9a6dda09c46a562\">9553326</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/1a3fa0ac2b9096c0425b644711a28d911b34ab08\">1a3fa0a</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/9c1757079811e878914a14717789a672cababf8d\">9c17570</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/d8d83eb30755ff46544e7037837dc1b4636f893e\">d8d83eb</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/b93ff32c3b4eeccd65720d463916a54aa6b9e5c5\">b93ff32</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/08929176147d688a5ed60f2dc53dea6f4b5cad08\">0892917</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/API-ICT/commit/52d443ef44c020ed6056c848107a20f5a74f2739\">52d443e</a>\n- <a href=\"https://github.com/dwesh163/API-ICT/commit/aac007436bb6cc214192bdc57ddb4e6830dda32f\">aac0074</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/9553326dbe115457e87da2cdc9a6dda09c46a562\">9553326</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/1a3fa0ac2b9096c0425b644711a28d911b34ab08\">1a3fa0a</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/9c1757079811e878914a14717789a672cababf8d\">9c17570</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/d8d83eb30755ff46544e7037837dc1b4636f893e\">d8d83eb</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1097 times)\n2. to (used 887 times)\n3. [add] (used 866 times)\n4. and (used 756 times)\n5. in (used 590 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1097 times)\n2. to (used 894 times)\n3. [add] (used 866 times)\n4. and (used 762 times)\n5. in (used 592 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
