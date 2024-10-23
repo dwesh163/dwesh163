@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. the (used 1105 times)
-2. to (used 946 times)
+2. to (used 947 times)
 3. [add] (used 874 times)
 4. and (used 790 times)
-5. in (used 604 times)
+5. in (used 605 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
