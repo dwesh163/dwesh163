@@ -5,9 +5,9 @@
 My favorite commit message words are:
 
 1. the (used 1105 times)
-2. to (used 956 times)
+2. to (used 957 times)
 3. [add] (used 874 times)
-4. and (used 792 times)
+4. and (used 793 times)
 5. in (used 605 times)
 
 
