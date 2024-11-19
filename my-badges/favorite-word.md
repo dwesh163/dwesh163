@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. the (used 1107 times)
-2. to (used 993 times)
-3. [add] (used 874 times)
-4. and (used 811 times)
-5. in (used 618 times)
+1. the (used 1113 times)
+2. to (used 1015 times)
+3. [add] (used 870 times)
+4. and (used 845 times)
+5. in (used 620 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/todo/commit/7d88d215b0c858b8ecbe755aabeae5080a4f73eb\">7d88d21</a>\n- <a href=\"https://github.com/dwesh163/todo/commit/b475db82f91b3e32fe96fbf637bca660fb4e7c89\">b475db8</a>\n- <a href=\"https://github.com/dwesh163/todo/commit/2d0129f9feabf8d9875ce70eb3b09655bb129279\">2d0129f</a>\n- <a href=\"https://github.com/dwesh163/API-ICT/commit/8f2c581932ba59b071e1118d6688c6ba1ba9e394\">8f2c581</a>\n- <a href=\"https://github.com/dwesh163/API-ICT/commit/583331ad3f2916a46ed768151c786e7a66294a83\">583331a</a>\n- <a href=\"https://github.com/dwesh163/API-ICT/commit/71f7548bbc15177bf881a4d7c712737231e05254\">71f7548</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/92603e48d792790d93dfe013c1d6619ce542aa09\">92603e4</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/96a9ca723aacaac9cb402bec21ef2997535d5ae3\">96a9ca7</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/6d0a172575ff1f39b5a83e6513f08e038fe734d7\">6d0a172</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/9da39080532618e676d822ab88ffa921c9061e3c\">9da3908</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/8ae14dcd5ee0694860d46595be88852c9ef54dd8\">8ae14dc</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/3c4d17825914b94c6cb434ab5411f17e7aee5127\">3c4d178</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -37,8 +37,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS/commit/2532681fb8a51b3e5d2b0b3e516faf2199dead71\">2532681fb8a51b3e5d2b0b3e516faf2199<strong>dead</strong>71</a>",
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS/commit/2532681fb8a51b3e5d2b0b3e516faf2199dead71\">2532681fb8a51b3e5d2b0b3e516faf2199<strong>dead</strong>71</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/710b2e4813b02f9cf403188ddeade07940293aa7\">710b2e4813b02f9cf403188d<strong>dead</strong>e07940293aa7</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1107 times)\n2. to (used 993 times)\n3. [add] (used 874 times)\n4. and (used 811 times)\n5. in (used 618 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1113 times)\n2. to (used 1015 times)\n3. [add] (used 870 times)\n4. and (used 845 times)\n5. in (used 620 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
