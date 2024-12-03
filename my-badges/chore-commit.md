@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/AllReplicas/commit/10ad2ebe84e750cf2f4dbfb857897adc51878e1c">10ad2eb</a>: chore
+- <a href="https://github.com/dwesh163/landing-page/commit/21dddf7624571cf3e9822c67dcd939253e2bbc09">21dddf7</a>: chore: rename robot.txt file
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

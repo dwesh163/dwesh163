@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dwesh163/WLed-UI/commit/adb4e47f5e7773ca539a0d524dc304a6084e0c6f\"><strong>a</strong>db4e47f5e7773ca539a0d524dc304a6084e0c6f</a>",
+    "body": "- <a href=\"https://github.com/dwesh163/dwesh163/commit/a0c21782704f6f6af03b180524751f34eb5b0a1a\"><strong>a</strong>0c21782704f6f6af03b180524751f34eb5b0a1a</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dwesh163/tableau-de-notes/commit/ab0d771d54e5b15507362c8300be9ba655664c8e\"><strong>ab</strong>0d771d54e5b15507362c8300be9ba655664c8e</a>",
+    "body": "- <a href=\"https://github.com/dwesh163/CFF-bot/commit/abf752ed89f276bbe3c4e831a9b7ec3b6f32c069\"><strong>ab</strong>f752ed89f276bbe3c4e831a9b7ec3b6f32c069</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -38,14 +38,14 @@
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 3 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS/commit/2532681fb8a51b3e5d2b0b3e516faf2199dead71\">2532681fb8a51b3e5d2b0b3e516faf2199<strong>dead</strong>71</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/710b2e4813b02f9cf403188ddeade07940293aa7\">710b2e4813b02f9cf403188d<strong>dead</strong>e07940293aa7</a>",
+    "body": "- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/710b2e4813b02f9cf403188ddeade07940293aa7\">710b2e4813b02f9cf403188d<strong>dead</strong>e07940293aa7</a>\n- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS/commit/2532681fb8a51b3e5d2b0b3e516faf2199dead71\">2532681fb8a51b3e5d2b0b3e516faf2199<strong>dead</strong>71</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/monitoring/commit/7a1f583eb83dea800172e97dbe5050bebf6a4212\">7a1f583</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Spleeve0/TinySwords/commit/d5f2e805104888931615a1203abae760fb36c72a\">d5f2e80</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1114 times)\n2. to (used 1030 times)\n3. [add] (used 870 times)\n4. and (used 860 times)\n5. in (used 625 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1114 times)\n2. to (used 1030 times)\n3. [add] (used 872 times)\n4. and (used 860 times)\n5. in (used 625 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -75,13 +75,6 @@
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
     "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
-  },
-  {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   },
   {
     "id": "yeti",
@@ -101,7 +94,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/AllReplicas/commit/10ad2ebe84e750cf2f4dbfb857897adc51878e1c\">10ad2eb</a>: chore",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/landing-page/commit/21dddf7624571cf3e9822c67dcd939253e2bbc09\">21dddf7</a>: chore: rename robot.txt file",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -115,7 +108,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -145,5 +138,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/025c6817e0cdc44d819934819a702fa3f7c6684f\">025c681</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/4b943215688d8eb7a3cdcb6bb91fddf483154966\">4b94321</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/a04409b2d1b895aa0b149419e1675a1e6750fa40\">a04409b</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/1907febe8c246c948dd8e4c1135fadee6a72c34e\">1907feb</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/3f32570379518f268fbdf0c55548c0c90c4252fd\">3f32570</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/f5cfebd152ed31d8f0ae2ee80f36e7b48cdaea2c\">f5cfebd</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 22 my own repositories.",
+    "body": "- <a href=\"https://github.com/dwesh163/dwesh163\">dwesh163/dwesh163</a>\n- <a href=\"https://github.com/dwesh163/kata-fleche\">dwesh163/kata-fleche</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot\">dwesh163/CFF-bot</a>\n- <a href=\"https://github.com/dwesh163/stage-WP\">dwesh163/stage-WP</a>\n- <a href=\"https://github.com/dwesh163/Pancake-Bot\">dwesh163/Pancake-Bot</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS\">dwesh163/JARVIS-IS</a>\n- <a href=\"https://github.com/dwesh163/Kata-APOD\">dwesh163/Kata-APOD</a>\n- <a href=\"https://github.com/dwesh163/tableau-de-notes\">dwesh163/tableau-de-notes</a>\n- <a href=\"https://github.com/dwesh163/NextPause\">dwesh163/NextPause</a>\n- <a href=\"https://github.com/dwesh163/tableau-de-notes-V2\">dwesh163/tableau-de-notes-V2</a>\n- <a href=\"https://github.com/dwesh163/InputGame\">dwesh163/InputGame</a>\n- <a href=\"https://github.com/dwesh163/WeatherCard\">dwesh163/WeatherCard</a>\n- <a href=\"https://github.com/dwesh163/Movielist\">dwesh163/Movielist</a>\n- <a href=\"https://github.com/dwesh163/image-portfolio\">dwesh163/image-portfolio</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2\">dwesh163/Quizzoto-V2</a>\n- <a href=\"https://github.com/dwesh163/passwordGame\">dwesh163/passwordGame</a>\n- <a href=\"https://github.com/dwesh163/music\">dwesh163/music</a>\n- <a href=\"https://github.com/dwesh163/landing-page\">dwesh163/landing-page</a>\n- <a href=\"https://github.com/dwesh163/pictures\">dwesh163/pictures</a>\n- <a href=\"https://github.com/dwesh163/API-ICT\">dwesh163/API-ICT</a>\n- <a href=\"https://github.com/dwesh163/todo\">dwesh163/todo</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf\">dwesh163/markdown-to-pdf</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

@@ -23,7 +23,6 @@ I love coding and. I've been <br>coding since I was 9.<br>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;the&quot;." title="My favorite word is &quot;the&quot;." width="64"></a>
 <a href="my-badges/rebel-coder.md"><img src="https://my-badges.github.io/my-badges/rebel-coder.png" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
-<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/yeti.md"><img src="https://my-badges.github.io/my-badges/yeti.png" alt="I found the yeti!" title="I found the yeti!" width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://my-badges.github.io/my-badges/emoji-only-commit.png" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
 <a href="my-badges/chore-commit.md"><img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="64"></a>
@@ -33,6 +32,7 @@ I love coding and. I've been <br>coding since I was 9.<br>
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
+<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 22 my own repositories." title="I&apos;ve starred 22 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
 ### 📊 Github Stats
