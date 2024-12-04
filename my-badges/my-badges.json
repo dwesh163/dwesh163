@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 1114 times)\n2. to (used 1030 times)\n3. [add] (used 872 times)\n4. and (used 860 times)\n5. in (used 625 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 1114 times)\n2. to (used 1030 times)\n3. and (used 860 times)\n4. [add] (used 858 times)\n5. in (used 625 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -142,8 +142,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 22 my own repositories.",
-    "body": "- <a href=\"https://github.com/dwesh163/dwesh163\">dwesh163/dwesh163</a>\n- <a href=\"https://github.com/dwesh163/kata-fleche\">dwesh163/kata-fleche</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot\">dwesh163/CFF-bot</a>\n- <a href=\"https://github.com/dwesh163/stage-WP\">dwesh163/stage-WP</a>\n- <a href=\"https://github.com/dwesh163/Pancake-Bot\">dwesh163/Pancake-Bot</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS\">dwesh163/JARVIS-IS</a>\n- <a href=\"https://github.com/dwesh163/Kata-APOD\">dwesh163/Kata-APOD</a>\n- <a href=\"https://github.com/dwesh163/tableau-de-notes\">dwesh163/tableau-de-notes</a>\n- <a href=\"https://github.com/dwesh163/NextPause\">dwesh163/NextPause</a>\n- <a href=\"https://github.com/dwesh163/tableau-de-notes-V2\">dwesh163/tableau-de-notes-V2</a>\n- <a href=\"https://github.com/dwesh163/InputGame\">dwesh163/InputGame</a>\n- <a href=\"https://github.com/dwesh163/WeatherCard\">dwesh163/WeatherCard</a>\n- <a href=\"https://github.com/dwesh163/Movielist\">dwesh163/Movielist</a>\n- <a href=\"https://github.com/dwesh163/image-portfolio\">dwesh163/image-portfolio</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2\">dwesh163/Quizzoto-V2</a>\n- <a href=\"https://github.com/dwesh163/passwordGame\">dwesh163/passwordGame</a>\n- <a href=\"https://github.com/dwesh163/music\">dwesh163/music</a>\n- <a href=\"https://github.com/dwesh163/landing-page\">dwesh163/landing-page</a>\n- <a href=\"https://github.com/dwesh163/pictures\">dwesh163/pictures</a>\n- <a href=\"https://github.com/dwesh163/API-ICT\">dwesh163/API-ICT</a>\n- <a href=\"https://github.com/dwesh163/todo\">dwesh163/todo</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf\">dwesh163/markdown-to-pdf</a>",
+    "desc": "I've starred 14 my own repositories.",
+    "body": "- <a href=\"https://github.com/dwesh163/CFF-bot\">dwesh163/CFF-bot</a>\n- <a href=\"https://github.com/dwesh163/stage-WP\">dwesh163/stage-WP</a>\n- <a href=\"https://github.com/dwesh163/Pancake-Bot\">dwesh163/Pancake-Bot</a>\n- <a href=\"https://github.com/dwesh163/JARVIS-IS\">dwesh163/JARVIS-IS</a>\n- <a href=\"https://github.com/dwesh163/Kata-APOD\">dwesh163/Kata-APOD</a>\n- <a href=\"https://github.com/dwesh163/tableau-de-notes\">dwesh163/tableau-de-notes</a>\n- <a href=\"https://github.com/dwesh163/NextPause\">dwesh163/NextPause</a>\n- <a href=\"https://github.com/dwesh163/tableau-de-notes-V2\">dwesh163/tableau-de-notes-V2</a>\n- <a href=\"https://github.com/dwesh163/InputGame\">dwesh163/InputGame</a>\n- <a href=\"https://github.com/dwesh163/WeatherCard\">dwesh163/WeatherCard</a>\n- <a href=\"https://github.com/dwesh163/Movielist\">dwesh163/Movielist</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2\">dwesh163/Quizzoto-V2</a>\n- <a href=\"https://github.com/dwesh163/music\">dwesh163/music</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf\">dwesh163/markdown-to-pdf</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
