@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/49b27c1900402df7f43f50be345f28ccb688485d\">49b27c1</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/f48520fc6c4721143c3164cdb555a2b48c514e40\">f48520f</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/cdd4c6617bdaf20c5ae38a7955db68914be88761\">cdd4c66</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/8e0dda0594e771f567fdce8fbe07cdfe429f038f\">8e0dda0</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/0659adc70c8c51092388bc5060e101f0c5a5964f\">0659adc</a>\n- <a href=\"https://github.com/dwesh163/music-V3/commit/203821ba1bb804b4df07bd350aad62520e43bd6a\">203821b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/49b27c1900402df7f43f50be345f28ccb688485d\">49b27c1</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/f48520fc6c4721143c3164cdb555a2b48c514e40\">f48520f</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/cdd4c6617bdaf20c5ae38a7955db68914be88761\">cdd4c66</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/8e0dda0594e771f567fdce8fbe07cdfe429f038f\">8e0dda0</a>\n- <a href=\"https://github.com/dwesh163/module_347/commit/96273033feea12db258c663dd5f88ad76e74722f\">9627303</a>\n- <a href=\"https://github.com/dwesh163/module_347/commit/24fc2880e05328f64b33a0a9cc2145e5b8c5a92b\">24fc288</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/landing-page/commit/7f65dd0323e20abc650661f249bb94c330131413\">7f65dd0</a>\n- <a href=\"https://github.com/dwesh163/landing-page/commit/56f9995d235d89f8b4a96a5902f13a2d98d202da\">56f9995</a>\n- <a href=\"https://github.com/dwesh163/landing-page/commit/5141eced4d1f4be4fd9f80c42a7f08b0f4b2b02a\">5141ece</a>\n- <a href=\"https://github.com/dwesh163/landing-page/commit/09b4b08589e54610c41929c4ab29bcb3cc2f0b47\">09b4b08</a>\n- <a href=\"https://github.com/dwesh163/freezer-inventory/commit/5849ed5e3e7947d7a9c3adcec6dd906c0c006890\">5849ed5</a>\n- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/1fb506a9b69a6210db36df72c6dd27c54e967de0\">1fb506a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/music/commit/97c4d357657beccf3cf6311ae63b688ca1632ac3\">97c4d35</a>\n- <a href=\"https://github.com/dwesh163/landing-page/commit/7f65dd0323e20abc650661f249bb94c330131413\">7f65dd0</a>\n- <a href=\"https://github.com/dwesh163/landing-page/commit/56f9995d235d89f8b4a96a5902f13a2d98d202da\">56f9995</a>\n- <a href=\"https://github.com/dwesh163/landing-page/commit/5141eced4d1f4be4fd9f80c42a7f08b0f4b2b02a\">5141ece</a>\n- <a href=\"https://github.com/dwesh163/landing-page/commit/09b4b08589e54610c41929c4ab29bcb3cc2f0b47\">09b4b08</a>\n- <a href=\"https://github.com/dwesh163/freezer-inventory/commit/5849ed5e3e7947d7a9c3adcec6dd906c0c006890\">5849ed5</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 744 times)\n2. [fix] (used 502 times)\n3. add (used 433 times)\n4. update (used 385 times)\n5. component (used 313 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 744 times)\n2. [fix] (used 502 times)\n3. add (used 454 times)\n4. update (used 390 times)\n5. component (used 342 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -93,8 +93,8 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/dwesh163/Calendar/commit/07ce59d901cafefb7a790c7e5985afe82b22de77\">07ce59d901<strong>cafe</strong>fb7a790c7e5985afe82b22de77</a>",
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/dwesh163/music/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/07ce59d901cafefb7a790c7e5985afe82b22de77\">07ce59d901<strong>cafe</strong>fb7a790c7e5985afe82b22de77</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
@@ -131,5 +131,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/025c6817e0cdc44d819934819a702fa3f7c6684f\">025c681</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/4b943215688d8eb7a3cdcb6bb91fddf483154966\">4b94321</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/a04409b2d1b895aa0b149419e1675a1e6750fa40\">a04409b</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/1907febe8c246c948dd8e4c1135fadee6a72c34e\">1907feb</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/3f32570379518f268fbdf0c55548c0c90c4252fd\">3f32570</a>\n- <a href=\"https://github.com/dwesh163/CFF-bot/commit/f5cfebd152ed31d8f0ae2ee80f36e7b48cdaea2c\">f5cfebd</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/music/commit/da0edbb305bc2c9bc773158aac89f0f4cc576c87\">da0edbb</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]
