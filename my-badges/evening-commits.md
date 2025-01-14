@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/music/commit/97c4d357657beccf3cf6311ae63b688ca1632ac3">97c4d35</a>
-- <a href="https://github.com/dwesh163/landing-page/commit/7f65dd0323e20abc650661f249bb94c330131413">7f65dd0</a>
-- <a href="https://github.com/dwesh163/landing-page/commit/56f9995d235d89f8b4a96a5902f13a2d98d202da">56f9995</a>
-- <a href="https://github.com/dwesh163/landing-page/commit/5141eced4d1f4be4fd9f80c42a7f08b0f4b2b02a">5141ece</a>
-- <a href="https://github.com/dwesh163/landing-page/commit/09b4b08589e54610c41929c4ab29bcb3cc2f0b47">09b4b08</a>
-- <a href="https://github.com/dwesh163/freezer-inventory/commit/5849ed5e3e7947d7a9c3adcec6dd906c0c006890">5849ed5</a>
+- <a href="https://github.com/dwesh163/ict-bot/commit/18162bdb5fd24e257a8b907b442fcbf9fc5199bb">18162bd</a>
+- <a href="https://github.com/dwesh163/ict-bot/commit/079915f8e174d3386c936654436e787d6604a613">079915f</a>
+- <a href="https://github.com/dwesh163/ict-bot/commit/27517e732d7d00d68516d50cacb351e72a6b7eff">27517e7</a>
+- <a href="https://github.com/dwesh163/ict-bot/commit/9d37dd695a6799a847cf2ca31492cc362b73bb25">9d37dd6</a>
+- <a href="https://github.com/dwesh163/ict-bot/commit/e689a70fb347f84df361912303b3efd604822fc4">e689a70</a>
+- <a href="https://github.com/dwesh163/ict-bot/commit/134169bdc38f2466dae043933e474b159cfa88a0">134169b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
