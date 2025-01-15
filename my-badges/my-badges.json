@@ -24,14 +24,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/18162bdb5fd24e257a8b907b442fcbf9fc5199bb\">18162bd</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/079915f8e174d3386c936654436e787d6604a613\">079915f</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/27517e732d7d00d68516d50cacb351e72a6b7eff\">27517e7</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/9d37dd695a6799a847cf2ca31492cc362b73bb25\">9d37dd6</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e689a70fb347f84df361912303b3efd604822fc4\">e689a70</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/134169bdc38f2466dae043933e474b159cfa88a0\">134169b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/7e05552a3887395812cc49d6112372334c2de9c7\">7e05552</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/dd44707bfbf8b16312ed9d536a4f201cedbceda9\">dd44707</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/922136865fc0744063d514cdf657b1f07926009a\">9221368</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/586d52251e32a3632253947d5f852899a4335810\">586d522</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e09402711caa5f73c7d200d4a6e993b8aa1cc9d9\">e094027</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/4da79d4819a4ea7bf33b4eb7948ce9db67df736f\">4da79d4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/pictures/commit/b1a8bd139f469814f86381a3fe7b460cc2a4f835\">b1a8bd1</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/69f8e9a7f5e175f2ca8f9dcdc5af3e308a341592\">69f8e9a</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/ecadb363bcf0ac9ea67d9997d18cce90666681cf\">ecadb36</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/24f9b4cf859bda6e8bcff3bddd7edfe79c91ae59\">24f9b4c</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/5f5fcd4b3aaec088714c72d7acd8b53c5d8b84e4\">5f5fcd4</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/3ffca88ec55c68f88a32f320495a18b17510fa05\">3ffca88</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/5d9a32f6e9add22bf388d92e82b1b7e381cd25df\">5d9a32f</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/12b0bb0924972120208c769abec07f96ca6bfed1\">12b0bb0</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e62bb6528360f3376ceca2179955bd2d73052fec\">e62bb65</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/9ac447ff454b9069781b412066bf928b964e0c23\">9ac447f</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/b1a8bd139f469814f86381a3fe7b460cc2a4f835\">b1a8bd1</a>\n- <a href=\"https://github.com/dwesh163/pictures/commit/69f8e9a7f5e175f2ca8f9dcdc5af3e308a341592\">69f8e9a</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 744 times)\n2. add (used 525 times)\n3. [fix] (used 502 times)\n4. update (used 451 times)\n5. component (used 360 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 746 times)\n2. add (used 542 times)\n3. [fix] (used 502 times)\n4. update (used 462 times)\n5. component (used 360 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
