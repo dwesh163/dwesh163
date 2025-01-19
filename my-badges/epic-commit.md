@@ -9,8 +9,8 @@ Commits:
 - <a href="https://github.com/dwesh163/labo-docker/commit/6f03d68945609bdca6c0d82392316621a203633b">6f03d68</a>
 - <a href="https://github.com/dwesh163/labo-docker/commit/ae9e957b638daaf1c0e76754333a7003cf35931b">ae9e957</a>
 - <a href="https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680">34a7549</a>
-- <a href="https://github.com/dwesh163/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00">a363d09</a>
-- <a href="https://github.com/dwesh163/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9">6385687</a>
+- <a href="https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00">a363d09</a>
+- <a href="https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9">6385687</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
