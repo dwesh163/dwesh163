@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 746 times)\n2. add (used 570 times)\n3. [fix] (used 503 times)\n4. update (used 468 times)\n5. component (used 367 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 746 times)\n2. add (used 601 times)\n3. [fix] (used 503 times)\n4. update (used 476 times)\n5. component (used 375 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/music/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/07ce59d901cafefb7a790c7e5985afe82b22de77\">07ce59d901<strong>cafe</strong>fb7a790c7e5985afe82b22de77</a>",
+    "body": "- <a href=\"https://github.com/dwesh163/musics/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/07ce59d901cafefb7a790c7e5985afe82b22de77\">07ce59d901<strong>cafe</strong>fb7a790c7e5985afe82b22de77</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
