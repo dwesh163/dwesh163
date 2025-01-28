@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/musics/commit/7fb835c3381dd2b381f752bf5df823c74837e8cd">7fb835c</a>
-- <a href="https://github.com/dwesh163/musics/commit/dda1274c2cd6adcd69ab6409c725b4f868568826">dda1274</a>
-- <a href="https://github.com/dwesh163/musics/commit/cb233b39e497f36304ada8e7b47a9dfb319e22d9">cb233b3</a>
-- <a href="https://github.com/dwesh163/musics/commit/5b5d124358a89e347b9de52f0024884f4f2840ab">5b5d124</a>
-- <a href="https://github.com/dwesh163/musics/commit/b07ca698f5f1fccf2e9ce382b0c59ab7b158dbee">b07ca69</a>
-- <a href="https://github.com/dwesh163/musics/commit/7ed73358186f36657b9db56a1611bb78b0851f6a">7ed7335</a>
+- <a href="https://github.com/dwesh163/musics/commit/7f1d7a434c9d2b53fb8c4f98e261f9b7c2ecd4ba">7f1d7a4</a>
+- <a href="https://github.com/dwesh163/musics/commit/3f9a1ee8bd24d3b7ac2e01191b9e1e93650b2d85">3f9a1ee</a>
+- <a href="https://github.com/dwesh163/musics/commit/9741bb4a1595729e0cfa7cf593c79afb4d5209c1">9741bb4</a>
+- <a href="https://github.com/dwesh163/musics/commit/35e0dcaf7e69ec02c20211733ed09cc4ba7f6c71">35e0dca</a>
+- <a href="https://github.com/dwesh163/musics/commit/5e251b713afc4003afa4a29a21bc6d5432dcb784">5e251b7</a>
+- <a href="https://github.com/dwesh163/musics/commit/11c8c8d6b214c09d23090416278e32d7c6dbd04f">11c8c8d</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
