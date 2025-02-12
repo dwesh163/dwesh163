@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 768 times)\n2. add (used 669 times)\n3. [fix] (used 508 times)\n4. update (used 507 times)\n5. component (used 419 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 768 times)\n2. add (used 677 times)\n3. update (used 515 times)\n4. [fix] (used 508 times)\n5. component (used 427 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
