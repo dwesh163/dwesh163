@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/landing-page/commit/21dddf7624571cf3e9822c67dcd939253e2bbc09">21dddf7</a>: chore: rename robot.txt file
+- <a href="https://github.com/Rignchen/322_browser_client/commit/2a2e4f7ea1a7311134e9c3f783f9105e7d8efea8">2a2e4f7</a>: chore: delete all default code (#5)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
