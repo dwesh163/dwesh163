@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 811 times)\n2. add (used 728 times)\n3. update (used 552 times)\n4. [fix] (used 539 times)\n5. component (used 479 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 811 times)\n2. add (used 732 times)\n3. update (used 558 times)\n4. [fix] (used 546 times)\n5. component (used 479 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/2a2e4f7ea1a7311134e9c3f783f9105e7d8efea8\">2a2e4f7</a>: chore: delete all default code (#5)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/landing-page/commit/21dddf7624571cf3e9822c67dcd939253e2bbc09\">21dddf7</a>: chore: rename robot.txt file",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
