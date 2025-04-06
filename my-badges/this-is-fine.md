@@ -4,9 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/dwesh163/Quizzoto/pull/6">#6</a>: Feature/home
-- <a href="https://github.com/dwesh163/Quizzoto/pull/7">#7</a>: Feature/quizz slug
-- <a href="https://github.com/dwesh163/Quizzoto/pull/8">#8</a>: Feature/results
 - <a href="https://github.com/dwesh163/Quizzoto/pull/9">#9</a>: Feature/sessions
 - <a href="https://github.com/dwesh163/Quizzoto/pull/10">#10</a>: Feature/quizzs welcome
 - <a href="https://github.com/dwesh163/Quizzoto/pull/11">#11</a>: Feature/sessions
