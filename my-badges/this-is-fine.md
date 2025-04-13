@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/dwesh163/Quizzoto/pull/12">#12</a>: Feature/style
 - <a href="https://github.com/dwesh163/Quizzoto/pull/13">#13</a>: Feature/login
 - <a href="https://github.com/dwesh163/Quizzoto/pull/14">#14</a>: [add] share
 - <a href="https://github.com/dwesh163/Quizzoto/pull/17">#17</a>: [add] share
