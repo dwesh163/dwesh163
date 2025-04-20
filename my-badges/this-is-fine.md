@@ -4,9 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/dwesh163/Quizzoto/pull/13">#13</a>: Feature/login
-- <a href="https://github.com/dwesh163/Quizzoto/pull/14">#14</a>: [add] share
-- <a href="https://github.com/dwesh163/Quizzoto/pull/17">#17</a>: [add] share
 - <a href="https://github.com/dwesh163/Quizzoto/pull/18">#18</a>: Feature/share session
 - <a href="https://github.com/dwesh163/Quizzoto/pull/19">#19</a>: Feature/user panel
 - <a href="https://github.com/dwesh163/Quizzoto/pull/20">#20</a>: Feature/link shortener
