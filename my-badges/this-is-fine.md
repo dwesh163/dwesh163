@@ -4,9 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/dwesh163/Quizzoto/pull/18">#18</a>: Feature/share session
-- <a href="https://github.com/dwesh163/Quizzoto/pull/19">#19</a>: Feature/user panel
-- <a href="https://github.com/dwesh163/Quizzoto/pull/20">#20</a>: Feature/link shortener
 - <a href="https://github.com/dwesh163/Quizzoto/pull/21">#21</a>: [refactor] sessions -> rooms
 - <a href="https://github.com/dwesh163/Quizzoto/pull/26">#26</a>: Feature/upgarde rooms menu
 - <a href="https://github.com/dwesh163/Quizzoto/pull/27">#27</a>: Feature/upgarde rooms menu
