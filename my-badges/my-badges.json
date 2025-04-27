@@ -59,7 +59,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/21\">#21</a>: [refactor] sessions -> rooms\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/26\">#26</a>: Feature/upgarde rooms menu\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/27\">#27</a>: Feature/upgarde rooms menu\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/28\">#28</a>: [add] Metrics\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/36\">#36</a>: Feature/create quizz\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/37\">#37</a>: Feature/display user\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/223\">#223</a>: Fix/x meteor install\n- <a href=\"https://github.com/epfl-si/wp-ops/pull/578\">#578</a>: [fix] resolve root location conflicts in configuration",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/36\">#36</a>: Feature/create quizz\n- <a href=\"https://github.com/dwesh163/Quizzoto/pull/37\">#37</a>: Feature/display user\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/223\">#223</a>: Fix/x meteor install\n- <a href=\"https://github.com/epfl-si/wp-ops/pull/578\">#578</a>: [fix] resolve root location conflicts in configuration",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
