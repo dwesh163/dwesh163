@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/dwesh163/Quizzoto/pull/36">#36</a>: Feature/create quizz
 - <a href="https://github.com/dwesh163/Quizzoto/pull/37">#37</a>: Feature/display user
 - <a href="https://github.com/epfl-si/wp-veritas/pull/223">#223</a>: Fix/x meteor install
 - <a href="https://github.com/epfl-si/wp-ops/pull/578">#578</a>: [fix] resolve root location conflicts in configuration
