@@ -4,7 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/322_browser_client/commit/2a2e4f7ea1a7311134e9c3f783f9105e7d8efea8">2a2e4f7</a>: chore: delete all default code (#5)
+- <a href="https://github.com/dwesh163/test2/commit/367f56148f801d2aa85bcb451da662672778575e">367f561</a>: chore: initialize Next.js project with essential configurations and dependencies
+
+- Added package.json with project metadata and dependencies.
+- Created postcss.config.js for PostCSS configuration with Tailwind CSS and autoprefixer.
+- Set up tailwind.config.ts for Tailwind CSS with custom theme and animations.
+- Added tsconfig.json for TypeScript configuration with strict settings and Next.js support.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
