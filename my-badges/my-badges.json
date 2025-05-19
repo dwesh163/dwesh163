@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/test2/commit/367f56148f801d2aa85bcb451da662672778575e\">367f561</a>\n- <a href=\"https://github.com/epfl-si/wiki.ops/commit/7c1a35bbb0b03fe6785a65fb477efc89e2de6897\">7c1a35b</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/ac2a7f6abb09cdab3bbe1410a70fa04c388c4aa3\">ac2a7f6</a>\n- <a href=\"https://github.com/epfl-si/wiki.ops/commit/8057bf51ac7c3e80846ac4211954a2051c1fad90\">8057bf5</a>\n- <a href=\"https://github.com/epfl-si/wiki.ops/commit/c65e2cbbe9808e24b04aa1fa99e7c89a6dc38b2a\">c65e2cb</a>\n- <a href=\"https://github.com/epfl-si/wiki.ops/commit/0764d34bfbb61aefab14d759cfa530402d3339e5\">0764d34</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/3cce5c349d96fdfd1a942cc9dd337ef497789e69\">3cce5c3</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/ad222e2a9e7cf25820dc3bcd6e7359ecf5722f38\">ad222e2</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/e4d8adebc1ac6e85674875d29868d93fd49491c7\">e4d8ade</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/796bc02a70bce9a776cd5a81b7229b2a37d6a2c1\">796bc02</a>\n- <a href=\"https://github.com/dwesh163/test2/commit/367f56148f801d2aa85bcb451da662672778575e\">367f561</a>\n- <a href=\"https://github.com/epfl-si/wiki.ops/commit/7c1a35bbb0b03fe6785a65fb477efc89e2de6897\">7c1a35b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 834 times)\n2. add (used 768 times)\n3. update (used 583 times)\n4. [fix] (used 567 times)\n5. component (used 498 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 834 times)\n2. add (used 768 times)\n3. update (used 585 times)\n4. [fix] (used 567 times)\n5. component (used 498 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/json-contributions/commit/2ecac7752189c9ba1a38364ba9d4ae97c72e871d\">2ecac77</a>: Fix token\n- <a href=\"https://github.com/dwesh163/json-contributions/commit/0358a6ae4077ce7238d67f9488a2b86fe92ec958\">0358a6a</a>: Fix import",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/ad222e2a9e7cf25820dc3bcd6e7359ecf5722f38\">ad222e2</a>: fix(header): correct indentation and ensure proper font import (#23)\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/e4d8adebc1ac6e85674875d29868d93fd49491c7\">e4d8ade</a>: fix(discover-magazine): update link to use routerLink for navigation (#21)",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
