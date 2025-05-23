@@ -17,7 +17,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/bcbdcd6eeedb16fc430ff3ba8078f0c9b029a349\">bcbdcd6</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/a5606574b55c02ffadba152679976b7570d8079b\">a560657</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/996865277f0cd826736fdc20cfcf19e04b0141a4\">9968652</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/49b27c1900402df7f43f50be345f28ccb688485d\">49b27c1</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/f48520fc6c4721143c3164cdb555a2b48c514e40\">f48520f</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/cdd4c6617bdaf20c5ae38a7955db68914be88761\">cdd4c66</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/070eb41b761f1f568d45778dde306845c5a58b45\">070eb41</a>\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/dfdf5948a3ab84997a73e105090ae0c0f1fd28b1\">dfdf594</a>\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/2b597d7f4c5eac1ab4239a33aa094ac5e848da30\">2b597d7</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/bcbdcd6eeedb16fc430ff3ba8078f0c9b029a349\">bcbdcd6</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/a5606574b55c02ffadba152679976b7570d8079b\">a560657</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/996865277f0cd826736fdc20cfcf19e04b0141a4\">9968652</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 834 times)\n2. add (used 777 times)\n3. update (used 594 times)\n4. [fix] (used 591 times)\n5. component (used 498 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 834 times)\n2. add (used 779 times)\n3. update (used 597 times)\n4. [fix] (used 591 times)\n5. component (used 498 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/test2/commit/367f56148f801d2aa85bcb451da662672778575e\">367f561</a>: chore: initialize Next.js project with essential configurations and dependencies\n\n- Added package.json with project metadata and dependencies.\n- Created postcss.config.js for PostCSS configuration with Tailwind CSS and autoprefixer.\n- Set up tailwind.config.ts for Tailwind CSS with custom theme and animations.\n- Added tsconfig.json for TypeScript configuration with strict settings and Next.js support.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/070eb41b761f1f568d45778dde306845c5a58b45\">070eb41</a>: chore: update dependencies and configure Tailwind CSS with Vite",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {

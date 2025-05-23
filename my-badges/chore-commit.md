@@ -4,12 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/test2/commit/367f56148f801d2aa85bcb451da662672778575e">367f561</a>: chore: initialize Next.js project with essential configurations and dependencies
-
-- Added package.json with project metadata and dependencies.
-- Created postcss.config.js for PostCSS configuration with Tailwind CSS and autoprefixer.
-- Set up tailwind.config.ts for Tailwind CSS with custom theme and animations.
-- Added tsconfig.json for TypeScript configuration with strict settings and Next.js support.
+- <a href="https://github.com/dwesh163/price-calculator/commit/070eb41b761f1f568d45778dde306845c5a58b45">070eb41</a>: chore: update dependencies and configure Tailwind CSS with Vite
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
