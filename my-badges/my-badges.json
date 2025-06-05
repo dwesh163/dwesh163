@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dwesh163/dwesh163/commit/a0c21782704f6f6af03b180524751f34eb5b0a1a\"><strong>a</strong>0c21782704f6f6af03b180524751f34eb5b0a1a</a>",
+    "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/a0eb9a746fe507aac089a52beb0bd40dc4f58e6c\"><strong>a</strong>0eb9a746fe507aac089a52beb0bd40dc4f58e6c</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -17,7 +17,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/070eb41b761f1f568d45778dde306845c5a58b45\">070eb41</a>\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/dfdf5948a3ab84997a73e105090ae0c0f1fd28b1\">dfdf594</a>\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/2b597d7f4c5eac1ab4239a33aa094ac5e848da30\">2b597d7</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/bcbdcd6eeedb16fc430ff3ba8078f0c9b029a349\">bcbdcd6</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/a5606574b55c02ffadba152679976b7570d8079b\">a560657</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/996865277f0cd826736fdc20cfcf19e04b0141a4\">9968652</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/070eb41b761f1f568d45778dde306845c5a58b45\">070eb41</a>\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/dfdf5948a3ab84997a73e105090ae0c0f1fd28b1\">dfdf594</a>\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/2b597d7f4c5eac1ab4239a33aa094ac5e848da30\">2b597d7</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/8159bfb3ed602b1860b1434a7deef6ffcd1cc021\">8159bfb</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/bcbdcd6eeedb16fc430ff3ba8078f0c9b029a349\">bcbdcd6</a>\n- <a href=\"https://github.com/dwesh163/outlinewiki-exporter/commit/a5606574b55c02ffadba152679976b7570d8079b\">a560657</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 834 times)\n2. add (used 782 times)\n3. update (used 600 times)\n4. [fix] (used 593 times)\n5. component (used 498 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 838 times)\n2. add (used 799 times)\n3. update (used 620 times)\n4. [fix] (used 610 times)\n5. component (used 504 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
