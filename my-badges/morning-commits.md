@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/price-calculator/commit/070eb41b761f1f568d45778dde306845c5a58b45">070eb41</a>
-- <a href="https://github.com/dwesh163/price-calculator/commit/dfdf5948a3ab84997a73e105090ae0c0f1fd28b1">dfdf594</a>
-- <a href="https://github.com/dwesh163/price-calculator/commit/2b597d7f4c5eac1ab4239a33aa094ac5e848da30">2b597d7</a>
-- <a href="https://github.com/epfl-si/wp-veritas/commit/8159bfb3ed602b1860b1434a7deef6ffcd1cc021">8159bfb</a>
-- <a href="https://github.com/dwesh163/outlinewiki-exporter/commit/bcbdcd6eeedb16fc430ff3ba8078f0c9b029a349">bcbdcd6</a>
-- <a href="https://github.com/dwesh163/outlinewiki-exporter/commit/a5606574b55c02ffadba152679976b7570d8079b">a560657</a>
+- <a href="https://github.com/epfl-si/wp-veritas/commit/30cba6a045c7342162e211581654baed68a6947e">30cba6a</a>
+- <a href="https://github.com/epfl-si/wp-veritas/commit/2ba022374f8908b917c97c192006718f4f039690">2ba0223</a>
+- <a href="https://github.com/epfl-si/wp-veritas/commit/92f9c7aa1def1e4a34a817ed12b6afe3b65323fb">92f9c7a</a>
+- <a href="https://github.com/epfl-si/wp-veritas/commit/3ec2729f9abb870bd06503990f767d48ee02d721">3ec2729</a>
+- <a href="https://github.com/epfl-si/wp-veritas/commit/2c3ed81c5e4b9ea18d67d3d877fabd3e81293804">2c3ed81</a>
+- <a href="https://github.com/epfl-si/wp-veritas/commit/ea68fec9ca5ea7dd30b3668566e425b402dcef02">ea68fec</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
