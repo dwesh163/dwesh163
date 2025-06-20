@@ -10,7 +10,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dwesh163/CFF-bot/commit/abf752ed89f276bbe3c4e831a9b7ec3b6f32c069\"><strong>ab</strong>f752ed89f276bbe3c4e831a9b7ec3b6f32c069</a>",
+    "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ab97177e024b2451f13e094873aae85e824f1499\"><strong>ab</strong>97177e024b2451f13e094873aae85e824f1499</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 893 times)\n2. add (used 864 times)\n3. update (used 672 times)\n4. [fix] (used 668 times)\n5. component (used 581 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 894 times)\n2. add (used 870 times)\n3. update (used 687 times)\n4. [fix] (used 672 times)\n5. component (used 582 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
