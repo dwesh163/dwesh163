@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. [add] (used 894 times)
-2. add (used 870 times)
-3. update (used 687 times)
-4. [fix] (used 672 times)
-5. component (used 582 times)
+2. add (used 877 times)
+3. update (used 698 times)
+4. [fix] (used 690 times)
+5. component (used 594 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
