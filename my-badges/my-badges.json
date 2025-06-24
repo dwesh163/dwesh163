@@ -37,8 +37,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/710b2e4813b02f9cf403188ddeade07940293aa7\">710b2e4813b02f9cf403188d<strong>dead</strong>e07940293aa7</a>\n- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>",
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/710b2e4813b02f9cf403188ddeade07940293aa7\">710b2e4813b02f9cf403188d<strong>dead</strong>e07940293aa7</a>\n- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ff13610deadd1c7a5b13110fa57b53ce4f94e660\">ff13610<strong>dead</strong>d1c7a5b13110fa57b53ce4f94e660</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"[add]\".",
-    "body": "My favorite commit message words are:\n\n1. [add] (used 894 times)\n2. add (used 877 times)\n3. update (used 698 times)\n4. [fix] (used 690 times)\n5. component (used 594 times)",
+    "body": "My favorite commit message words are:\n\n1. [add] (used 894 times)\n2. add (used 875 times)\n3. update (used 699 times)\n4. [fix] (used 697 times)\n5. component (used 597 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
