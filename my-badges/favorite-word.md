@@ -1,13 +1,13 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;[add]&quot;." title="My favorite word is &quot;[add]&quot;." width="128">
-<strong>My favorite word is &quot;[add]&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="128">
+<strong>My favorite word is &quot;add&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. [add] (used 894 times)
-2. add (used 884 times)
-3. update (used 713 times)
-4. [fix] (used 700 times)
+1. add (used 899 times)
+2. [add] (used 894 times)
+3. update (used 714 times)
+4. [fix] (used 703 times)
 5. component (used 609 times)
 
 
