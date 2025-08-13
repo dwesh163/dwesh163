@@ -17,7 +17,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/548df310653f22d674363c9ec82e0009dcb31f13\">548df31</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/edae44f6a347347b8036bbd3d138da7d951be938\">edae44f</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/6424cb343bc5af7a4fbc4685a9c1e62ae9ce97d4\">6424cb3</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/30cba6a045c7342162e211581654baed68a6947e\">30cba6a</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/2ba022374f8908b917c97c192006718f4f039690\">2ba0223</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/92f9c7aa1def1e4a34a817ed12b6afe3b65323fb\">92f9c7a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/wiki.ops/commit/27d86ca93489773058fca0c3c10e4b877f28eaf6\">27d86ca</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/548df310653f22d674363c9ec82e0009dcb31f13\">548df31</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/edae44f6a347347b8036bbd3d138da7d951be938\">edae44f</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/6424cb343bc5af7a4fbc4685a9c1e62ae9ce97d4\">6424cb3</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/30cba6a045c7342162e211581654baed68a6947e\">30cba6a</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/2ba022374f8908b917c97c192006718f4f039690\">2ba0223</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 948 times)\n2. [add] (used 891 times)\n3. update (used 741 times)\n4. [fix] (used 728 times)\n5. component (used 624 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 954 times)\n2. [add] (used 891 times)\n3. update (used 744 times)\n4. [fix] (used 728 times)\n5. component (used 624 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
