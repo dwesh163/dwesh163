@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce">559459c</a>
 - <a href="https://github.com/dwesh163/labo-docker/commit/59973e96fe79315e2ac925e0a762ac389517b6a3">59973e9</a>
 - <a href="https://github.com/dwesh163/labo-docker/commit/e7a1d1c416bc6dc7fce84045c12586bd25a047cb">e7a1d1c</a>
 - <a href="https://github.com/dwesh163/labo-docker/commit/6f03d68945609bdca6c0d82392316621a203633b">6f03d68</a>

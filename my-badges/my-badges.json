@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1041 times)\n2. [add] (used 896 times)\n3. update (used 765 times)\n4. [fix] (used 757 times)\n5. component (used 652 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1051 times)\n2. [add] (used 897 times)\n3. update (used 769 times)\n4. [fix] (used 766 times)\n5. component (used 652 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/59973e96fe79315e2ac925e0a762ac389517b6a3\">59973e9</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/e7a1d1c416bc6dc7fce84045c12586bd25a047cb\">e7a1d1c</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/6f03d68945609bdca6c0d82392316621a203633b\">6f03d68</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/ae9e957b638daaf1c0e76754333a7003cf35931b\">ae9e957</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/59973e96fe79315e2ac925e0a762ac389517b6a3\">59973e9</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/e7a1d1c416bc6dc7fce84045c12586bd25a047cb\">e7a1d1c</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/6f03d68945609bdca6c0d82392316621a203633b\">6f03d68</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/ae9e957b638daaf1c0e76754333a7003cf35931b\">ae9e957</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
