@@ -49,13 +49,6 @@
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
@@ -66,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1062 times)\n2. [add] (used 905 times)\n3. update (used 778 times)\n4. [fix] (used 770 times)\n5. component (used 652 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1066 times)\n2. [add] (used 905 times)\n3. update (used 778 times)\n4. [fix] (used 770 times)\n5. component (used 652 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -152,5 +145,12 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Module_293/commit/31ed87984fde7566f81220330db9a5cd0c623733\">31ed879</a>\n- <a href=\"https://github.com/dwesh163/Module_293/commit/328ea45cfca6bd66214a2af4ca97a83c775e231b\">328ea45</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
