@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1075 times)\n2. [add] (used 897 times)\n3. update (used 785 times)\n4. [fix] (used 783 times)\n5. component (used 662 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1076 times)\n2. [add] (used 897 times)\n3. update (used 785 times)\n4. [fix] (used 784 times)\n5. component (used 662 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -159,5 +159,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/dwesh163/outlinewiki-exporter\">dwesh163/outlinewiki-exporter</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/epfl-si/ticketshop/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   }
 ]
