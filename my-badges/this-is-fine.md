@@ -9,6 +9,7 @@ Pull requests:
 - <a href="https://github.com/epfl-si/wp-ops/pull/578">#578</a>: [fix] resolve root location conflicts in configuration
 - <a href="https://github.com/epfl-si/ticketshop/pull/31">#31</a>: [Feature] Add cache to the admin search bar
 - <a href="https://github.com/epfl-si/ticketshop/pull/34">#34</a>: Feature/table toggle all
+- <a href="https://github.com/epfl-si/ticketshop/pull/42">#42</a>: Feature/clean url
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
