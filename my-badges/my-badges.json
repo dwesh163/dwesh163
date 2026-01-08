@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1091 times)\n2. [add] (used 924 times)\n3. update (used 807 times)\n4. [fix] (used 799 times)\n5. component (used 662 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1093 times)\n2. [add] (used 924 times)\n3. update (used 808 times)\n4. [fix] (used 802 times)\n5. component (used 663 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -170,7 +170,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/musics/commit/f7548e34ee07149fcb82cf1518f6caeb1f217c7a\">f7548e3</a>\n- <a href=\"https://github.com/dwesh163/musics/commit/4175553835ecf9b482421bac5bd9a7acb2d27922\">4175553</a>\n- <a href=\"https://github.com/dwesh163/musics/commit/0caf7cbf0488d0b62f58ddd935442f2289e1824d\">0caf7cb</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -187,5 +187,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/55ea6156ca428c8491314c32c3a4c6530e74d633\">55ea615</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/d379a31f7edb21e6967e1287003ebbb293c81b5b\">d379a31</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/fa27abec8f0432e3b37abf8ca72991a9f2264824\">fa27abe</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/186921ae594d1698baff0f0fc60b147355591324\">186921a</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/fbb5e943b6ce60d57d395bea8316ccd1dbdc28a8\">fbb5e94</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/cda6f4df7be9544067ccb74d2527d7c36b207248\">cda6f4d</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/223c9a40c634e962a2e53999879b6caf2898ebac\">223c9a4</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/b3643a24d38c985e156ae331f3e51f041e795d57\">b3643a2</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/9cfcfb36ae287eee9567e6003a8eeac83b5ed1cb\">9cfcfb3</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/3312a1db5abd613f80d73472c9f111d5fba7dd59\">3312a1d</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/63e785387d6b25128cb7ea58d1d551916c342bd5\">63e7853</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/728426c9b98b128a00d1a49d06ae245f1b2b1139\">728426c</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]
