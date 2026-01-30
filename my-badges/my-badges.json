@@ -45,7 +45,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e689a70fb347f84df361912303b3efd604822fc4\">e689a70</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sidoc.ops/commit/94f4cad9ad0bc619e01f7be5109c0cc8462c445c\">94f4cad</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1099 times)\n2. [add] (used 924 times)\n3. update (used 821 times)\n4. [fix] (used 818 times)\n5. component (used 663 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1105 times)\n2. [add] (used 924 times)\n3. update (used 824 times)\n4. [fix] (used 818 times)\n5. component (used 663 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
