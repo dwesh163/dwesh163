@@ -31,7 +31,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/5d9a32f6e9add22bf388d92e82b1b7e381cd25df\">5d9a32f</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/12b0bb0924972120208c769abec07f96ca6bfed1\">12b0bb0</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e62bb6528360f3376ceca2179955bd2d73052fec\">e62bb65</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/9ac447ff454b9069781b412066bf928b964e0c23\">9ac447f</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/b1a8bd139f469814f86381a3fe7b460cc2a4f835\">b1a8bd1</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/69f8e9a7f5e175f2ca8f9dcdc5af3e308a341592\">69f8e9a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/openvid/commit/d649c5a7777e542c1e3ba5a08542310d791cd64b\">d649c5a</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/5d9a32f6e9add22bf388d92e82b1b7e381cd25df\">5d9a32f</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/12b0bb0924972120208c769abec07f96ca6bfed1\">12b0bb0</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e62bb6528360f3376ceca2179955bd2d73052fec\">e62bb65</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/9ac447ff454b9069781b412066bf928b964e0c23\">9ac447f</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/b1a8bd139f469814f86381a3fe7b460cc2a4f835\">b1a8bd1</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1108 times)\n2. [add] (used 924 times)\n3. update (used 830 times)\n4. [fix] (used 819 times)\n5. component (used 663 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1114 times)\n2. [add] (used 924 times)\n3. update (used 837 times)\n4. [fix] (used 823 times)\n5. component (used 664 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
