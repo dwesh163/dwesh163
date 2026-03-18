@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/322_browser_client/commit/55ea6156ca428c8491314c32c3a4c6530e74d633">55ea615</a>
-- <a href="https://github.com/dwesh163/Calendar/commit/d379a31f7edb21e6967e1287003ebbb293c81b5b">d379a31</a>
-- <a href="https://github.com/dwesh163/Calendar/commit/fa27abec8f0432e3b37abf8ca72991a9f2264824">fa27abe</a>
-- <a href="https://github.com/dwesh163/Calendar/commit/186921ae594d1698baff0f0fc60b147355591324">186921a</a>
-- <a href="https://github.com/dwesh163/Calendar/commit/fbb5e943b6ce60d57d395bea8316ccd1dbdc28a8">fbb5e94</a>
-- <a href="https://github.com/dwesh163/Calendar/commit/cda6f4df7be9544067ccb74d2527d7c36b207248">cda6f4d</a>
+- <a href="https://github.com/dwesh163/spotosh/commit/c55fd0ba9b39ec8b95aa44ed862c002d359c70f2">c55fd0b</a>
+- <a href="https://github.com/dwesh163/spotosh/commit/aaab904367abce4417dd34ee9a642e7cc8d4be94">aaab904</a>
+- <a href="https://github.com/dwesh163/spotosh/commit/0f86b1d1b8ca99c4a9fd2803ba8d70d4ec4827db">0f86b1d</a>
+- <a href="https://github.com/dwesh163/spotosh/commit/686e1be169438a1f34fd6e8c0318e86af44b75fe">686e1be</a>
+- <a href="https://github.com/dwesh163/spotosh/commit/4c125e31ab3c689ad2e70e73b7ed460617541c67">4c125e3</a>
+- <a href="https://github.com/dwesh163/spotosh/commit/ded7414d16d4d03e78302695f38413e263a78bc8">ded7414</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
