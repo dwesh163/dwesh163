@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/f50ae517521af41ffab33f95e7b5155729308a1a\">f50ae51</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/4c5c4b302c73770fbb20819cbfae5197115cd735\">4c5c4b3</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/cb0ca5c50eac4cd5c84c1bfe669d746bdf61f407\">cb0ca5c</a>\n- <a href=\"https://github.com/dwesh163/FactDrop/commit/957163bad42672008225ce3d3f07bb7cee319ebe\">957163b</a>\n- <a href=\"https://github.com/dwesh163/FactDrop/commit/7e5a37426d341c455fcf014d73cad4a8172db4c5\">7e5a374</a>\n- <a href=\"https://github.com/dwesh163/FactDrop/commit/2aa33e815d63c864bfe86e368c167ab6a49dd830\">2aa33e8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/5d1b884349007f0fd963c78323e7d4456b3bc084\">5d1b884</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/87915da9e37755c9f6a4bdd3aa1310f8b7b98c65\">87915da</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/4fd644e637afde84b44b478e5ccff0ed67b23900\">4fd644e</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/f767621328f56484e9974f41158c93259bab59b7\">f767621</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/50f215b92fb1a63e21e84470020182c6eb48c258\">50f215b</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/7ad17e860ea5c9475b936e2362de21aac8333b5d\">7ad17e8</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sidoc.ops/commit/94f4cad9ad0bc619e01f7be5109c0cc8462c445c\">94f4cad</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/bb414ae0244ece8f5fa3a38a6d1c147fa733e33a\">bb414ae</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1159 times)\n2. [add] (used 931 times)\n3. update (used 862 times)\n4. [fix] (used 834 times)\n5. component (used 674 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1163 times)\n2. [add] (used 943 times)\n3. update (used 867 times)\n4. [fix] (used 835 times)\n5. component (used 678 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
