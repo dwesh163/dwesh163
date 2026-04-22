@@ -7,6 +7,7 @@ Pull requests:
 - <a href="https://github.com/epfl-si/wp-veritas/pull/223">#223</a>: Fix/x meteor install
 - <a href="https://github.com/epfl-si/ticketshop/pull/8">#8</a>: TMP LOG
 - <a href="https://github.com/epfl-si/wp-veritas/pull/341">#341</a>: [Feature] translate plugin
+- <a href="https://github.com/epfl-si/wp-veritas/pull/344">#344</a>: [feature] Category "EPFL Forms"
 - <a href="https://github.com/epfl-si/ticketshop/pull/31">#31</a>: [Feature] Add cache to the admin search bar
 - <a href="https://github.com/epfl-si/ticketshop/pull/34">#34</a>: Feature/table toggle all
 - <a href="https://github.com/epfl-si/ticketshop/pull/42">#42</a>: Feature/clean url

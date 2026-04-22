@@ -52,14 +52,14 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/223\">#223</a>: Fix/x meteor install\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/8\">#8</a>: TMP LOG\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/341\">#341</a>: [Feature] translate plugin\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/31\">#31</a>: [Feature] Add cache to the admin search bar\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/34\">#34</a>: Feature/table toggle all\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/42\">#42</a>: Feature/clean url",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/223\">#223</a>: Fix/x meteor install\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/8\">#8</a>: TMP LOG\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/341\">#341</a>: [Feature] translate plugin\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/344\">#344</a>: [feature] Category \"EPFL Forms\"\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/31\">#31</a>: [Feature] Add cache to the admin search bar\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/34\">#34</a>: Feature/table toggle all\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/42\">#42</a>: Feature/clean url",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1174 times)\n2. [add] (used 946 times)\n3. update (used 876 times)\n4. [fix] (used 854 times)\n5. component (used 684 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1178 times)\n2. [add] (used 952 times)\n3. update (used 879 times)\n4. [fix] (used 856 times)\n5. component (used 685 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
