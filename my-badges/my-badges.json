@@ -24,7 +24,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/d646aeef9caa1e61a724347895e44047b1a28c08\">d646aee</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/8a7f5883aa65968e7eb2a6d13c5c27b7b5d8115a\">8a7f588</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/b9f6fe362b7cc2be38fc56b436203dba6f663656\">b9f6fe3</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/dff9e8a6e3d87a1121bde8437f854b03ead5a937\">dff9e8a</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/edde04aa9c89b06ebb045ce6d3d1e5cd160057f0\">edde04a</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/deec09d02e9dc86784e81ed0702aef8d310f2f53\">deec09d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/b409610f0d4f533716036725775c612f6fde1a6a\">b409610</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/9362e4784e2181481d15a1cd5a62ecea90df0a76\">9362e47</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/d646aeef9caa1e61a724347895e44047b1a28c08\">d646aee</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/8a7f5883aa65968e7eb2a6d13c5c27b7b5d8115a\">8a7f588</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/b9f6fe362b7cc2be38fc56b436203dba6f663656\">b9f6fe3</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/dff9e8a6e3d87a1121bde8437f854b03ead5a937\">dff9e8a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1187 times)\n2. [add] (used 952 times)\n3. update (used 883 times)\n4. [fix] (used 857 times)\n5. component (used 688 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1188 times)\n2. [add] (used 952 times)\n3. update (used 884 times)\n4. [fix] (used 858 times)\n5. component (used 689 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -187,5 +187,12 @@
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/223c9a40c634e962a2e53999879b6caf2898ebac\">223c9a4</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/b3643a24d38c985e156ae331f3e51f041e795d57\">b3643a2</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/9cfcfb36ae287eee9567e6003a8eeac83b5ed1cb\">9cfcfb3</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/3312a1db5abd613f80d73472c9f111d5fba7dd59\">3312a1d</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/63e785387d6b25128cb7ea58d1d551916c342bd5\">63e7853</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/728426c9b98b128a00d1a49d06ae245f1b2b1139\">728426c</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/dwesh163/outlinewiki-exporter\">dwesh163/outlinewiki-exporter</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
