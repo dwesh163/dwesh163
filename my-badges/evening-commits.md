@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/b61dbbf41303c5afc63e2095d097a7d8151e4e89">b61dbbf</a>
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/1ee2ed3385c98abbca7b986e280323d37bf6f2de">1ee2ed3</a>
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/1835059e5926240c51d5e2539553c4ba185f3e97">1835059</a>
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/ee5a8b2ea30d9ff5256cecdc09687a3c19df8850">ee5a8b2</a>
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/9edb9794c165f1207fa0c57ef4345fa86fc192a2">9edb979</a>
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/2d31acbab0a0d6940b924f50fff36e967536c95b">2d31acb</a>
+- <a href="https://github.com/dwesh163/financial-dashboard/commit/4b54bf4108f24cc9410d2a85a1a2a1d6230a4ffa">4b54bf4</a>
+- <a href="https://github.com/dwesh163/financial-dashboard/commit/fdfc74abf9a890e7fe1d2b75d430fa050a2167fb">fdfc74a</a>
+- <a href="https://github.com/dwesh163/financial-dashboard/commit/63072a4cd7d9960d956fd785adb6cf851b6794db">63072a4</a>
+- <a href="https://github.com/dwesh163/financial-dashboard/commit/35caae7b25d066fffded39cfd94685b67abd0dbb">35caae7</a>
+- <a href="https://github.com/dwesh163/financial-dashboard/commit/68180490092ac6dfbe36ca845861cc5cb98fa1fe">6818049</a>
+- <a href="https://github.com/dwesh163/financial-dashboard/commit/1f7240a70eb9891d3a2f5258b3dbd6bf95568bf7">1f7240a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

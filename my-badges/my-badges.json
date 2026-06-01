@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/cebe4f55502cc14fc0e80ffc583b9644ad99309d\">cebe4f5</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4d378253026e8f8440c111b41f4e463a32ada3a5\">4d37825</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/b84ab66026f2ba4ee00280dce5bda2a55581404f\">b84ab66</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4063d9ad962ccde1cc021c0bc427f540e036b031\">4063d9a</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/c819a581ec1846f05051f20106e8733d52f78ca1\">c819a58</a>\n- <a href=\"https://github.com/epfl-si/sopec/commit/f837b578b562f8a9885f56b716f2814fa9ebc80c\">f837b57</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/25e10056bbdc2bf1297d78157c5b459031496d00\">25e1005</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/cebe4f55502cc14fc0e80ffc583b9644ad99309d\">cebe4f5</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4d378253026e8f8440c111b41f4e463a32ada3a5\">4d37825</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/b84ab66026f2ba4ee00280dce5bda2a55581404f\">b84ab66</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4063d9ad962ccde1cc021c0bc427f540e036b031\">4063d9a</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/c819a581ec1846f05051f20106e8733d52f78ca1\">c819a58</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/b61dbbf41303c5afc63e2095d097a7d8151e4e89\">b61dbbf</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/1ee2ed3385c98abbca7b986e280323d37bf6f2de\">1ee2ed3</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/1835059e5926240c51d5e2539553c4ba185f3e97\">1835059</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/ee5a8b2ea30d9ff5256cecdc09687a3c19df8850\">ee5a8b2</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/9edb9794c165f1207fa0c57ef4345fa86fc192a2\">9edb979</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/2d31acbab0a0d6940b924f50fff36e967536c95b\">2d31acb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/4b54bf4108f24cc9410d2a85a1a2a1d6230a4ffa\">4b54bf4</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/fdfc74abf9a890e7fe1d2b75d430fa050a2167fb\">fdfc74a</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/63072a4cd7d9960d956fd785adb6cf851b6794db\">63072a4</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/35caae7b25d066fffded39cfd94685b67abd0dbb\">35caae7</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/68180490092ac6dfbe36ca845861cc5cb98fa1fe\">6818049</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/1f7240a70eb9891d3a2f5258b3dbd6bf95568bf7\">1f7240a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1241 times)\n2. [add] (used 952 times)\n3. update (used 909 times)\n4. [fix] (used 862 times)\n5. component (used 706 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1250 times)\n2. [add] (used 952 times)\n3. update (used 913 times)\n4. [fix] (used 867 times)\n5. component (used 714 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
