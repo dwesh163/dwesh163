@@ -17,7 +17,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/25e10056bbdc2bf1297d78157c5b459031496d00\">25e1005</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/cebe4f55502cc14fc0e80ffc583b9644ad99309d\">cebe4f5</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4d378253026e8f8440c111b41f4e463a32ada3a5\">4d37825</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/b84ab66026f2ba4ee00280dce5bda2a55581404f\">b84ab66</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4063d9ad962ccde1cc021c0bc427f540e036b031\">4063d9a</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/c819a581ec1846f05051f20106e8733d52f78ca1\">c819a58</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/a932cdaa370e17f6313504223513dbd5bdf58dcc\">a932cda</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/3d296667dd8ca73f4e0ed744c747af667639250d\">3d29666</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/65e575d45360c4125f10def25036fbbc45245678\">65e575d</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/529528cbd0aa3ee4d69e05be28f340f8984601bf\">529528c</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/44bcf7d3720db999ef7a3d19a42a6e73eb5947c5\">44bcf7d</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/a014536cbd6c5e291e70d7ea4edd498f1d58cdb1\">a014536</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1250 times)\n2. [add] (used 952 times)\n3. update (used 913 times)\n4. [fix] (used 867 times)\n5. component (used 714 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1263 times)\n2. [add] (used 952 times)\n3. update (used 921 times)\n4. [fix] (used 870 times)\n5. component (used 714 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -187,12 +187,5 @@
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/223c9a40c634e962a2e53999879b6caf2898ebac\">223c9a4</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/b3643a24d38c985e156ae331f3e51f041e795d57\">b3643a2</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/9cfcfb36ae287eee9567e6003a8eeac83b5ed1cb\">9cfcfb3</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/3312a1db5abd613f80d73472c9f111d5fba7dd59\">3312a1d</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/63e785387d6b25128cb7ea58d1d551916c342bd5\">63e7853</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/728426c9b98b128a00d1a49d06ae245f1b2b1139\">728426c</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/dwesh163/outlinewiki-exporter\">dwesh163/outlinewiki-exporter</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
