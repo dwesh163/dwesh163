@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1263 times)\n2. [add] (used 952 times)\n3. update (used 921 times)\n4. [fix] (used 870 times)\n5. component (used 714 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1056 times)\n2. [fix] (used 771 times)\n3. update (used 727 times)\n4. [add] (used 719 times)\n5. [feature] (used 645 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -68,13 +68,6 @@
     "desc": "I am a rebel coder.",
     "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
     "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
-  },
-  {
-    "id": "emoji-only-commit",
-    "tier": 0,
-    "desc": "I used only emojis in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/WebFileSystem/commit/38fb4201931a97503247a402d025b2208ccd50e2\">38fb420</a>: 🔄📝🔧🎨📦📏",
-    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
   },
   {
     "id": "chore-commit",
@@ -86,15 +79,15 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/musics/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/07ce59d901cafefb7a790c7e5985afe82b22de77\">07ce59d901<strong>cafe</strong>fb7a790c7e5985afe82b22de77</a>",
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/dwesh163/musics/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/59973e96fe79315e2ac925e0a762ac389517b6a3\">59973e9</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/e7a1d1c416bc6dc7fce84045c12586bd25a047cb\">e7a1d1c</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/6f03d68945609bdca6c0d82392316621a203633b\">6f03d68</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/ae9e957b638daaf1c0e76754333a7003cf35931b\">ae9e957</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -140,13 +133,6 @@
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
-    "id": "winter-solstice-commits",
-    "tier": 0,
-    "desc": "I commit in the Winter solstice.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Module_293/commit/31ed87984fde7566f81220330db9a5cd0c623733\">31ed879</a>\n- <a href=\"https://github.com/dwesh163/Module_293/commit/328ea45cfca6bd66214a2af4ca97a83c775e231b\">328ea45</a>",
-    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
-  },
-  {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
@@ -168,13 +154,6 @@
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
   {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Calendar/commit/94c39599e3d76d4dbfd21fc673f7c6dfb9e170c1\">94c3959</a>\n- <a href=\"https://github.com/dwesh163/Calendar/commit/b3377d3fa02073791575788967e6caeeb909a31e\">b3377d3</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
@@ -187,5 +166,12 @@
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/223c9a40c634e962a2e53999879b6caf2898ebac\">223c9a4</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/b3643a24d38c985e156ae331f3e51f041e795d57\">b3643a2</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/9cfcfb36ae287eee9567e6003a8eeac83b5ed1cb\">9cfcfb3</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/3312a1db5abd613f80d73472c9f111d5fba7dd59\">3312a1d</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/63e785387d6b25128cb7ea58d1d551916c342bd5\">63e7853</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/728426c9b98b128a00d1a49d06ae245f1b2b1139\">728426c</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/dwesh163/outlinewiki-exporter\">dwesh163/outlinewiki-exporter</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
