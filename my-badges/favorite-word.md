@@ -6,9 +6,9 @@ My favorite commit message words are:
 
 1. add (used 1058 times)
 2. [fix] (used 771 times)
-3. update (used 727 times)
+3. update (used 728 times)
 4. [add] (used 719 times)
-5. [feature] (used 647 times)
+5. [feature] (used 648 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
