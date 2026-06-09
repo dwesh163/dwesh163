@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1058 times)\n2. [fix] (used 771 times)\n3. update (used 728 times)\n4. [add] (used 719 times)\n5. [feature] (used 648 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1094 times)\n2. [fix] (used 780 times)\n3. update (used 762 times)\n4. [add] (used 719 times)\n5. [feature] (used 677 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -79,8 +79,8 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/dwesh163/musics/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>",
+    "desc": "I pushed a commit with \"cafe\" 2 times.",
+    "body": "- <a href=\"https://github.com/dwesh163/musics/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ea518f2007535b6b090aa63496cbf4cafe4d4117\">ea518f2007535b6b090aa63496cbf4<strong>cafe</strong>4d4117</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
@@ -168,10 +168,10 @@
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/dwesh163/outlinewiki-exporter\">dwesh163/outlinewiki-exporter</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/abc852ec7a2d39a0761f0544d6a354f078c88433\"><strong>abc</strong>852ec7a2d39a0761f0544d6a354f078c88433</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
   }
 ]
