@@ -24,14 +24,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/4b54bf4108f24cc9410d2a85a1a2a1d6230a4ffa\">4b54bf4</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/fdfc74abf9a890e7fe1d2b75d430fa050a2167fb\">fdfc74a</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/63072a4cd7d9960d956fd785adb6cf851b6794db\">63072a4</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/35caae7b25d066fffded39cfd94685b67abd0dbb\">35caae7</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/68180490092ac6dfbe36ca845861cc5cb98fa1fe\">6818049</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/1f7240a70eb9891d3a2f5258b3dbd6bf95568bf7\">1f7240a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/7a8db1ddf02c34b6066c81524612cbdf024c9f54\">7a8db1d</a>\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/c9554d65fc1bebd3efc3e6ee5b92b431cdab0ffe\">c9554d6</a>\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/110d1c103437a014ea728c90115b28ca6d4d427e\">110d1c1</a>\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/c87999f62896346e4f8dcbfb9f7fc3fdf3dab275\">c87999f</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/4b54bf4108f24cc9410d2a85a1a2a1d6230a4ffa\">4b54bf4</a>\n- <a href=\"https://github.com/dwesh163/financial-dashboard/commit/fdfc74abf9a890e7fe1d2b75d430fa050a2167fb\">fdfc74a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/5d9a32f6e9add22bf388d92e82b1b7e381cd25df\">5d9a32f</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/12b0bb0924972120208c769abec07f96ca6bfed1\">12b0bb0</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e62bb6528360f3376ceca2179955bd2d73052fec\">e62bb65</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/9ac447ff454b9069781b412066bf928b964e0c23\">9ac447f</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/b1a8bd139f469814f86381a3fe7b460cc2a4f835\">b1a8bd1</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/69f8e9a7f5e175f2ca8f9dcdc5af3e308a341592\">69f8e9a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/836a327bbbf8d1a08b1d7a0fc313b54e74a2d212\">836a327</a>\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/d132c9af0558efa1d1514c753f992f14012ca119\">d132c9a</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/5d9a32f6e9add22bf388d92e82b1b7e381cd25df\">5d9a32f</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/12b0bb0924972120208c769abec07f96ca6bfed1\">12b0bb0</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e62bb6528360f3376ceca2179955bd2d73052fec\">e62bb65</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/9ac447ff454b9069781b412066bf928b964e0c23\">9ac447f</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1100 times)\n2. [fix] (used 782 times)\n3. update (used 766 times)\n4. [add] (used 719 times)\n5. [feature] (used 677 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1107 times)\n2. [fix] (used 785 times)\n3. update (used 767 times)\n4. [add] (used 719 times)\n5. [feature] (used 679 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/860686e5a85d94519794d6de3d1c0adffd8bc4a3\">860686e</a>\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -173,12 +173,5 @@
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/abc852ec7a2d39a0761f0544d6a354f078c88433\"><strong>abc</strong>852ec7a2d39a0761f0544d6a354f078c88433</a>",
     "image": "https://my-badges.github.io/my-badges/abc-commit.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/dwesh163/outlinewiki-exporter\">dwesh163/outlinewiki-exporter</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
