@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/kubernetes-ui/commit/7a8db1ddf02c34b6066c81524612cbdf024c9f54">7a8db1d</a>
-- <a href="https://github.com/dwesh163/kubernetes-ui/commit/c9554d65fc1bebd3efc3e6ee5b92b431cdab0ffe">c9554d6</a>
-- <a href="https://github.com/dwesh163/kubernetes-ui/commit/110d1c103437a014ea728c90115b28ca6d4d427e">110d1c1</a>
-- <a href="https://github.com/dwesh163/kubernetes-ui/commit/c87999f62896346e4f8dcbfb9f7fc3fdf3dab275">c87999f</a>
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/4b54bf4108f24cc9410d2a85a1a2a1d6230a4ffa">4b54bf4</a>
-- <a href="https://github.com/dwesh163/financial-dashboard/commit/fdfc74abf9a890e7fe1d2b75d430fa050a2167fb">fdfc74a</a>
+- <a href="https://github.com/dwesh163/create-stack/commit/000de7f742704d50ce28331c803955bdbd5da7e5">000de7f</a>
+- <a href="https://github.com/dwesh163/create-stack/commit/af10c7edfe2ef3d0b42dc470607f6ba4cd760e8c">af10c7e</a>
+- <a href="https://github.com/dwesh163/create-stack/commit/65ca2cfe7d9bf962d8efea9dffa7f49673364481">65ca2cf</a>
+- <a href="https://github.com/dwesh163/create-stack/commit/8f14ffc7a3b71ad400e74092da4d1df2fe903564">8f14ffc</a>
+- <a href="https://github.com/dwesh163/create-stack/commit/ff573489413e8eff465406d7861b6a1122764f37">ff57348</a>
+- <a href="https://github.com/dwesh163/create-stack/commit/5eb2c550e555c15a6addd2430ed8c8c1ea933f44">5eb2c55</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
