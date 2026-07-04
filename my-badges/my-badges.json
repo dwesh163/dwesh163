@@ -45,7 +45,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sidoc.ops/commit/94f4cad9ad0bc619e01f7be5109c0cc8462c445c\">94f4cad</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cartaflow/CartaFlow/commit/869ac740cd682f17a8198d84fb320b3083e8ecf5\">869ac74</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1104 times)\n2. [fix] (used 779 times)\n3. update (used 721 times)\n4. [add] (used 698 times)\n5. [feature] (used 656 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 1130 times)\n2. [fix] (used 790 times)\n3. update (used 723 times)\n4. [add] (used 698 times)\n5. [feature] (used 684 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/860686e5a85d94519794d6de3d1c0adffd8bc4a3\">860686e</a>\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/create-stack/commit/1fd1acfd0dea1616fdaf464f168ff48e3e87dd87\">1fd1acf</a>\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/860686e5a85d94519794d6de3d1c0adffd8bc4a3\">860686e</a>\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/kooked-ch/pictures/commit/1c76b3a9f3cc99ca1325a24a3ca2c7a35a0249f6\">1c76b3a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/cartaflow/CartaFlow/commit/869ac740cd682f17a8198d84fb320b3083e8ecf5\">869ac74</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
@@ -173,5 +173,12 @@
     "desc": "One of my commit sha starts with \"abc\".",
     "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/abc852ec7a2d39a0761f0544d6a354f078c88433\"><strong>abc</strong>852ec7a2d39a0761f0544d6a354f078c88433</a>",
     "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/dwesh163/outlinewiki-exporter\">dwesh163/outlinewiki-exporter</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
