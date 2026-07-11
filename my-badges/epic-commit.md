@@ -4,6 +4,9 @@
 
 Commits:
 
+- <a href="https://github.com/epfl-si/wp-controller/commit/bf2d735bb229b9d5a53e26b451811a23d5e0425c">bf2d735</a>
+- <a href="https://github.com/epfl-si/wp-controller/commit/755acec4030d607bf9ed75dd38f7e69463d48688">755acec</a>
+- <a href="https://github.com/epfl-si/wp-controller/commit/1426f4e11c892817751ef157cee49ce48eec7d98">1426f4e</a>
 - <a href="https://github.com/dwesh163/create-stack/commit/1fd1acfd0dea1616fdaf464f168ff48e3e87dd87">1fd1acf</a>
 - <a href="https://github.com/dwesh163/kubernetes-ui/commit/860686e5a85d94519794d6de3d1c0adffd8bc4a3">860686e</a>
 - <a href="https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce">559459c</a>
