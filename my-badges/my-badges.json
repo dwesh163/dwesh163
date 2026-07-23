@@ -1,66 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/a0eb9a746fe507aac089a52beb0bd40dc4f58e6c\"><strong>a</strong>0eb9a746fe507aac089a52beb0bd40dc4f58e6c</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ab97177e024b2451f13e094873aae85e824f1499\"><strong>ab</strong>97177e024b2451f13e094873aae85e824f1499</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/9a59ae3e6b7de0ac8fc8efcbc71d53567561eebc\">9a59ae3</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/cebe4f55502cc14fc0e80ffc583b9644ad99309d\">cebe4f5</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4d378253026e8f8440c111b41f4e463a32ada3a5\">4d37825</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/b84ab66026f2ba4ee00280dce5bda2a55581404f\">b84ab66</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/4063d9ad962ccde1cc021c0bc427f540e036b031\">4063d9a</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/c819a581ec1846f05051f20106e8733d52f78ca1\">c819a58</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/create-stack/commit/000de7f742704d50ce28331c803955bdbd5da7e5\">000de7f</a>\n- <a href=\"https://github.com/dwesh163/create-stack/commit/af10c7edfe2ef3d0b42dc470607f6ba4cd760e8c\">af10c7e</a>\n- <a href=\"https://github.com/dwesh163/create-stack/commit/65ca2cfe7d9bf962d8efea9dffa7f49673364481\">65ca2cf</a>\n- <a href=\"https://github.com/dwesh163/create-stack/commit/8f14ffc7a3b71ad400e74092da4d1df2fe903564\">8f14ffc</a>\n- <a href=\"https://github.com/dwesh163/create-stack/commit/ff573489413e8eff465406d7861b6a1122764f37\">ff57348</a>\n- <a href=\"https://github.com/dwesh163/create-stack/commit/5eb2c550e555c15a6addd2430ed8c8c1ea933f44\">5eb2c55</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/836a327bbbf8d1a08b1d7a0fc313b54e74a2d212\">836a327</a>\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/d132c9af0558efa1d1514c753f992f14012ca119\">d132c9a</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/5d9a32f6e9add22bf388d92e82b1b7e381cd25df\">5d9a32f</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/12b0bb0924972120208c769abec07f96ca6bfed1\">12b0bb0</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/e62bb6528360f3376ceca2179955bd2d73052fec\">e62bb65</a>\n- <a href=\"https://github.com/dwesh163/ict-bot/commit/9ac447ff454b9069781b412066bf928b964e0c23\">9ac447f</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 3 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/markdown-to-pdf/commit/710b2e4813b02f9cf403188ddeade07940293aa7\">710b2e4813b02f9cf403188d<strong>dead</strong>e07940293aa7</a>\n- <a href=\"https://github.com/dwesh163/InputGame/commit/3eaaf8edead4489c9c51889f1cee4fdde63fabe0\">3eaaf8e<strong>dead</strong>4489c9c51889f1cee4fdde63fabe0</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ff13610deadd1c7a5b13110fa57b53ce4f94e660\">ff13610<strong>dead</strong>d1c7a5b13110fa57b53ce4f94e660</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/cartaflow/CartaFlow/commit/869ac740cd682f17a8198d84fb320b3083e8ecf5\">869ac74</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/8\">#8</a>: TMP LOG\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/341\">#341</a>: [Feature] translate plugin\n- <a href=\"https://github.com/epfl-si/wp-veritas/pull/344\">#344</a>: [feature] Category \"EPFL Forms\"\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/31\">#31</a>: [Feature] Add cache to the admin search bar\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/34\">#34</a>: Feature/table toggle all\n- <a href=\"https://github.com/epfl-si/ticketshop/pull/42\">#42</a>: Feature/clean url",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 1160 times)\n2. [fix] (used 797 times)\n3. update (used 724 times)\n4. [feature] (used 719 times)\n5. [add] (used 698 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "rebel-coder",
@@ -70,67 +14,11 @@
     "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
   },
   {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/price-calculator/commit/070eb41b761f1f568d45778dde306845c5a58b45\">070eb41</a>: chore: update dependencies and configure Tailwind CSS with Vite",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 2 times.",
-    "body": "- <a href=\"https://github.com/dwesh163/musics/commit/0962fca2b57bacf1078fa41a343f310cafe2499b\">0962fca2b57bacf1078fa41a343f310<strong>cafe</strong>2499b</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ea518f2007535b6b090aa63496cbf4cafe4d4117\">ea518f2007535b6b090aa63496cbf4<strong>cafe</strong>4d4117</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/wp-controller/commit/bf2d735bb229b9d5a53e26b451811a23d5e0425c\">bf2d735</a>\n- <a href=\"https://github.com/epfl-si/wp-controller/commit/755acec4030d607bf9ed75dd38f7e69463d48688\">755acec</a>\n- <a href=\"https://github.com/epfl-si/wp-controller/commit/1426f4e11c892817751ef157cee49ce48eec7d98\">1426f4e</a>\n- <a href=\"https://github.com/dwesh163/create-stack/commit/1fd1acfd0dea1616fdaf464f168ff48e3e87dd87\">1fd1acf</a>\n- <a href=\"https://github.com/dwesh163/kubernetes-ui/commit/860686e5a85d94519794d6de3d1c0adffd8bc4a3\">860686e</a>\n- <a href=\"https://github.com/epfl-si/sopec/commit/559459c9d630d2424fb20c562f53365f8fa6efce\">559459c</a>\n- <a href=\"https://github.com/epfl-si/wp-operator/commit/34a7549c2bc98fd48b5e3ccf66b3c6a919bcd680\">34a7549</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a363d09af0688f6d791b9ffd574ad6d557129c00\">a363d09</a>\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "fix-6+",
-    "tier": 6,
-    "desc": "I did 32 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/kooked-ch/pictures/commit/bc15836a4df5fe7502166ec6e26d059f2f8be330\">bc15836</a>: fix: Update join/page.tsx to handle user join request\n\nThe join/page.tsx file has been updated to handle user join requests by checking the validity of the provided token and the user's information. If the token is valid and the user's information is complete, they will be redirected to the home page. Otherwise, they will be redirected to the sign-in page. This change ensures a smooth and secure user join process.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/a281b9ed78690f42bba8aec35a519777def47915\">a281b9e</a>: fix: Update layout to adjust main padding-top\n\nThe layout component has been updated to adjust the padding-top of the main content area. This change ensures proper spacing and alignment of the content, improving the overall visual appearance of the page.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/c9942db7aacaa5939815a56b896cf5874da7f536\">c9942db</a>: fix: Update join page to handle user join request\n\nThe join page has been updated to handle user join requests by checking the validity of the provided token and the user's information. If the token is valid and the user's information is complete, they will be redirected to the home page. Otherwise, they will be redirected to the sign-in page. This change ensures a smooth and secure user join process.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/40003aec09f27fe0a51bb07650a28e3dc39ef2db\">40003ae</a>: fix: Update phone number validation in signup page\n\nThe phone number validation in the signup page has been updated to check for a length of 12 digits instead of checking if it starts with '0'. This change ensures that only valid phone numbers are accepted during the signup process, improving data integrity and user experience.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/711708926b879f181e9e398e15e5d3133399a9f5\">7117089</a>: fix: Update npm dependencies for net and tls packages\n\nThe npm dependencies for the 'net' and 'tls' packages have been updated to their latest versions. This change ensures that the application is using the most up-to-date and secure versions of these packages, improving overall stability and security.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/857d614a80199ade8f8e29ec736a5b2502f810dc\">857d614</a>: fix: Update notifications table in init.sql\n\nThe 'notifications' table has been added to the 'init.sql' file. This change ensures that the database schema includes a table for storing notifications. The table has columns for 'notificationId', 'userId', 'message', 'link', 'type', 'isRead', and 'createdAt'. This addition allows the application to handle and display notifications to users, enhancing the user experience.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/8fc8b99ab2ca0a0e2c3d3ff273ba08732bb7a820\">8fc8b99</a>: fix: Update variable name from 'name' to 'userName' in galleries.ts\n- <a href=\"https://github.com/kooked-ch/pictures/commit/5abb48dbb2347a69b65f778c550390b1b84b5b32\">5abb48d</a>: fix: Update birthday field in AccountForm component\n\nThe birthday field in the AccountForm component has been updated to use the value of 'undefined' instead of 'new Date()'. This change ensures consistency in handling the default value for the birthday field and improves code readability.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/7d09b995a87405c8ca86c3232a47e52ccd044803\">7d09b99</a>: fix: Update variable name from 'phoneNum' to 'phoneNumber' in join/page.tsx\n- <a href=\"https://github.com/kooked-ch/pictures/commit/9afc6e7d37ff2ce1ec36d4a4f6e7b198978aaeb6\">9afc6e7</a>: fix: Update signup page to include phone number input\n\nThe signup page has been updated to include a phone number input field. This change allows users to enter their phone number during the signup process, ensuring that all necessary user information is captured and stored in the database. By including the phone number field, the application can provide a more comprehensive user profile and enhance the user experience.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/007b9d310d83c01995c2637fb323e112efb15678\">007b9d3</a>: fix: Update join_gallery_requests table to use 'phoneNumber' column instead of 'phoneNum'\n\nThe 'join_gallery_requests' table in the database has been updated to use the 'phoneNumber' column instead of the 'phoneNum' column. This change ensures consistency and clarity in the naming convention for phone number fields across the database schema.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/e77afdd0d2efa40457aa4ae7856315ebb186fb03\">e77afdd</a>: fix: Update signup route to include additional user fields\n\nThe signup route in 'route.ts' has been updated to include additional user fields such as 'lastname', 'username', and 'phoneNumber'. This change ensures that all necessary user information is captured during the signup process and stored in the database. By including these fields, the application can provide a more comprehensive user profile and enhance the user experience.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/c936de7fc54f9a6d115a466df2c073b54c52c92d\">c936de7</a>: fix: Update variable name from 'phoneNum' to 'phoneNumber' in join/route.ts\n\nThe variable name 'phoneNum' has been updated to 'phoneNumber' in the 'join/route.ts' file. This change ensures consistency in variable naming and improves code readability.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/cb3445ee79607d2dfcc7a04de627f6563d465de3\">cb3445e</a>: fix: Update variable name from 'name' to 'userName' in galleries.ts\n\nThe variable name 'name' has been updated to 'userName' in the 'galleries.ts' file. This change ensures consistency in variable naming and improves code readability.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/99cc16801f32d2c76a797b64e5f6d87868e5609d\">99cc168</a>: fix: Update phoneNum to phoneNumber in join/input.tsx\n\nThe 'phoneNum' variable has been renamed to 'phoneNumber' in the 'join/input.tsx' file. This change ensures consistency in variable naming and improves code readability.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/088aba9e7828c6fc005194625aa8c13370ce36bd\">088aba9</a>: fix: Update APP_DESCRIPTION in layout.tsx\n\nThe APP_DESCRIPTION in layout.tsx has been updated to 'Share your photos with friends and family'. This change improves the description of the application and provides a more accurate representation of its purpose.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/4c8af1ca8baf3a10ec9aa1b65977bc335d54685c\">4c8af1c</a>: fix: Update background color style in otp.html\n\nThe background color style in otp.html has been updated to remove the min-height property and ensure consistency with the rest of the page. This change improves the visual appearance of the OTP page.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/465176916ef39fd46ced5041065a43d070168076\">4651769</a>: fix: Update column name from 'phoneNum' to 'phoneNumber' in init.sql\n\nThe 'phoneNum' column name in the 'users' and 'join_gallery_requests' tables has been updated to 'phoneNumber' in the 'init.sql' file. This change ensures consistency and clarity in the naming convention for phone number fields across the database schema.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/b0213605866f3c5c64aa29a5699164422a290bc5\">b021360</a>: fix: Update Dockerfile to run as root\n\nThe Dockerfile has been updated to change the user running the container from \"nextjs\" to \"root\". This change is necessary to allow the container to bind to port 80, which requires root privileges. By running the container as root, the application will be able to listen on port 80 and serve incoming requests.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/d1071b55c0f88964a515333d38b0fa97ea703c9e\">d1071b5</a>: fix: Handle error saving file in upload route\n\nThe code changes in 'route.ts' now include error handling when saving a file. If an error occurs during the file saving process, an error message is logged to the console. This ensures that any errors encountered during file saving are properly handled and logged for debugging purposes.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/63856875279ebccedc49518f0105c0ab356045f9\">6385687</a>: fix: Add email notification for new gallery creation\n\nThe code changes in 'galleries.ts' now include logic to send an email notification to the user when a new gallery is created. This ensures that the user is informed about the creation of their new gallery and provides them with a link to access it. The email content is generated from an HTML template file and includes the gallery's unique URL. This commit enhances the user experience by providing timely notifications for new gallery creations.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/4563833b3d725551001e3f4e1aaddce665a4a00b\">4563833</a>: fix: Update Link href in GalleriesList component\n\nThe code changes in 'GalleriesList' component update the 'Link' href attribute to remove the '/edit' path. This ensures that the link correctly navigates to the gallery page instead of the edit page. The previous code included the '/edit' path, but it has been removed to align with the desired behavior.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/7178ffba4c1b6465db7f0ce2250cf951aec9f804\">7178ffb</a>: fix: Update accreditation check in EditPage component\n\nThe code changes in 'EditPage' component now correctly check the 'userData.accreditationId' value to determine if the user has the correct accreditation to access the edit page for a specific gallery. The previous code used the value 3, but it has been updated to use the value 5. This ensures that only users with the correct accreditation can access the edit page.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/dfc76c03bc5315f231c5f6d46a0fbdf71647e322\">dfc76c0</a>: fix: Redirect unauthorized users to '/me' in GalleryEditPage\n\nThe code changes in 'GalleryEditPage' now include a check for the 'userData.accreditationId' value. If the value is not equal to 5, the user is redirected to the '/me' page. This ensures that only users with the correct accreditation can access the edit page for a specific gallery.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/bd4327c7db3f5db2c75a44a2d9305cb83daa945f\">bd4327c</a>: fix: Update getAccreditationId function to return 5 instead of 3\n\nThe code changes in users.ts update the getAccreditationId function to return 5 instead of 3 in a specific condition. This change ensures that the correct accreditation ID is returned based on the provided email and gallery ID.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/7510b64bc0c2bf95e9822e6a807a2ee74f459ff4\">7510b64</a>: fix: Fix email sending in next-auth.ts\n\nThe code changes in next-auth.ts fix a bug in the email sending logic. The previous code was not correctly accessing the email address from the adminRows array, resulting in an error when trying to send the email. This commit updates the code to correctly access the email address and send the email to the admin user.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/0a4932cb3a1e1691aa1bcd994bbb284f8ce68598\">0a4932c</a>: fix: Remove unused code in Page component\n- <a href=\"https://github.com/kooked-ch/pictures/commit/eebd45592e379321a3a1fdf02194c26e01aebe9d\">eebd455</a>: fix: Update email verification resend route\n- <a href=\"https://github.com/kooked-ch/pictures/commit/b5f953aa6cb6b630219f766ae538ff4226505cb9\">b5f953a</a>: fix: Update email verification resend route\n\nThe code changes in next-auth.ts add a new route for resending email verification. This allows users to request a new verification email if they did not receive the initial one or if it expired. This commit adds the necessary logic to handle the resend request and sends a new verification email to the user.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/81f1eff107fca454985783ed6297c702b5bbeb39\">81f1eff</a>: fix: Correctly compare account provider in next-auth.ts\n- <a href=\"https://github.com/kooked-ch/pictures/commit/3e893685da0a62f4ff2fe182cd00e3043fd90c07\">3e89368</a>: fix: Correctly compare account provider in next-auth.ts\n\nThe code changes in next-auth.ts fix a logical error in the conditional statement that compares the account provider. The previous code did not correctly compare the provider, resulting in incorrect behavior. This commit updates the condition to ensure that the account provider is compared correctly before returning a value.\n- <a href=\"https://github.com/kooked-ch/pictures/commit/ada14e9f288d31b927f5888f4c8a5a10892df2e7\">ada14e9</a>: fix: Update conditional statement in next-auth.ts to correctly compare account provider\n\nThe code changes in next-auth.ts fix a logical error in the conditional statement that compares the account provider. The previous code did not correctly compare the provider, resulting in incorrect behavior. This commit updates the condition to ensure that the account provider is compared correctly before returning a value.",
-    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/ad222e2a9e7cf25820dc3bcd6e7359ecf5722f38\">ad222e2</a>: fix(header): correct indentation and ensure proper font import (#23)\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/e4d8adebc1ac6e85674875d29868d93fd49491c7\">e4d8ade</a>: fix(discover-magazine): update link to use routerLink for navigation (#21)",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/epfl-si/wp-operator/pull/9\">#9</a>: Refactor Operator in Object oriented",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/time-bomb/commit/6d7347bc86ecfe2579adbcc2a2ba036477030a68\">6d7347b</a>\n- <a href=\"https://github.com/dwesh163/time-bomb/commit/a1891509d7de635cbed0f4913f1c84929005790b\">a189150</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/6cad7227ec44c3ef498b1d162bb2c7624366932a\">6cad722</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/2d2af167e19c116d32b808fa6c94d5ef7946b64f\">2d2af16</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/cbda086f866f75bbb7e398214bd6a303f034d9cf\">cbda086</a>\n- <a href=\"https://github.com/dwesh163/time-bomb/commit/3dbf2341e9e91535d5a4afe1f64574a29a476ea9\">3dbf234</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/cartaflow/CartaFlow/commit/869ac740cd682f17a8198d84fb320b3083e8ecf5\">869ac74</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/cf1eca6fc07851761bf5d8225eb07c433b99effc\">cf1eca6</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/48f7704819cf7fa7af45f6ab7f651844f1337c3f\">48f7704</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/f3827ceca7d5954ba62de69eb79ccc7cee2fd168\">f3827ce</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/8905e92f3dfb50ca8741046100306864550dccdf\">8905e92</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/88152153efec0bf4b0cda1558258186a62ff3e93\">8815215</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/981ce70b97fa3cef5011b1f71fa9d405d8a98d46\">981ce70</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ddbade67a8bd5107a513278bcf62360ee83b6010\">ddbade6</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/9b061052c6e526714e1498b2f2cdd4de80119809\">9b06105</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/a6e7a741417d1f32868b1cab662b2d84a1a8ba09\">a6e7a74</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/5a1756c20185a4a5fc36a61a1e8f5a646bc05cfb\">5a1756c</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/620b1da615ffcb81fcfb9262265ec106f8a9b39f\">620b1da</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/8f914826c0e7b5badc84d3f7f0465d38441ecec9\">8f91482</a>\n- <a href=\"https://github.com/epfl-si/wp-veritas/commit/ee47dd6e0dd00b15756771d9d1e00e0878ca34d3\">ee47dd6</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
     "id": "public-keys-1",
@@ -145,33 +33,5 @@
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/epfl-si/ticketshop/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/epfl-si/sopec/commit/69a4206ea181f30e33fd12550efbef2c1c03a048\">69a4206</a>\n- <a href=\"https://github.com/epfl-si/sopec/commit/4bab9bcee362862aa5f0d7c26cb428f024e61e9e\">4bab9bc</a>\n- <a href=\"https://github.com/dwesh163/musics/commit/f7548e34ee07149fcb82cf1518f6caeb1f217c7a\">f7548e3</a>\n- <a href=\"https://github.com/dwesh163/musics/commit/4175553835ecf9b482421bac5bd9a7acb2d27922\">4175553</a>\n- <a href=\"https://github.com/dwesh163/musics/commit/0caf7cbf0488d0b62f58ddd935442f2289e1824d\">0caf7cb</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/spotosh/commit/c55fd0ba9b39ec8b95aa44ed862c002d359c70f2\">c55fd0b</a>\n- <a href=\"https://github.com/dwesh163/spotosh/commit/aaab904367abce4417dd34ee9a642e7cc8d4be94\">aaab904</a>\n- <a href=\"https://github.com/dwesh163/spotosh/commit/0f86b1d1b8ca99c4a9fd2803ba8d70d4ec4827db\">0f86b1d</a>\n- <a href=\"https://github.com/dwesh163/spotosh/commit/686e1be169438a1f34fd6e8c0318e86af44b75fe\">686e1be</a>\n- <a href=\"https://github.com/dwesh163/spotosh/commit/4c125e31ab3c689ad2e70e73b7ed460617541c67\">4c125e3</a>\n- <a href=\"https://github.com/dwesh163/spotosh/commit/ded7414d16d4d03e78302695f38413e263a78bc8\">ded7414</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/223c9a40c634e962a2e53999879b6caf2898ebac\">223c9a4</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/b3643a24d38c985e156ae331f3e51f041e795d57\">b3643a2</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/9cfcfb36ae287eee9567e6003a8eeac83b5ed1cb\">9cfcfb3</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/3312a1db5abd613f80d73472c9f111d5fba7dd59\">3312a1d</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/63e785387d6b25128cb7ea58d1d551916c342bd5\">63e7853</a>\n- <a href=\"https://github.com/dwesh163/Quizzoto-V2/commit/728426c9b98b128a00d1a49d06ae245f1b2b1139\">728426c</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "abc-commit",
-    "tier": 3,
-    "desc": "One of my commit sha starts with \"abc\".",
-    "body": "- <a href=\"https://github.com/epfl-si/wp-veritas/commit/abc852ec7a2d39a0761f0544d6a354f078c88433\"><strong>abc</strong>852ec7a2d39a0761f0544d6a354f078c88433</a>",
-    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
   }
 ]
