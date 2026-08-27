@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/epfl-si/wp-operator/pull/9">#9</a>: Refactor Operator in Object oriented
+- <a href="https://github.com/epfl-si/ticketshop.ops/pull/4">#4</a>: [feature] New OPS
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
