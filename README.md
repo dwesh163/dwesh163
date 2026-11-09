@@ -4,40 +4,38 @@ Apprentice IT specialist (CFC) at [EPFL](https://www.epfl.ch), based in Switzerl
 
 **[duriaux.dev](https://duriaux.dev)** · [Projects](https://duriaux.dev/projets) · [Background](https://duriaux.dev/parcours) · [Contact](https://duriaux.dev/contact)
 
-## At EPFL
+## 🏔️ At EPFL
 
-I work on the WordPress platform that hosts EPFL's websites, from the Kubernetes deployment to the tooling around it.
-
-- **WordPress on Kubernetes**: the DevOps side of EPFL's WordPress sites ([details](https://duriaux.dev/projets/wordpress-kubernetes)).
-- **wp-veritas**: the application that tracks every WordPress site at EPFL. I am its lead contributor, with over 1,000 commits ([details](https://duriaux.dev/projets/wp-veritas)).
-
-These repositories are internal to EPFL, so the write-ups live on my site.
-
-## Open source and side projects
-
-| Project | What it does | Stack |
+| | | |
 | --- | --- | --- |
-| [capi-ui](https://github.com/dwesh163/capi-ui) | Web console for Cluster API on OpenStack: clusters, machines, addons, network and events | TypeScript |
-| [create-stack](https://github.com/dwesh163/create-stack) | Interactive CLI to scaffold Next.js or Expo apps with opt-in modules | TypeScript |
-| [spotosh](https://github.com/dwesh163/spotosh) | Browse and stream music from a self-hosted Navidrome server, with Last.fm integration | TypeScript |
-| [shed](https://github.com/dwesh163/shed) | CLI toolkit for day-to-day Kubernetes and OpenShift operations | Shell |
-| [BONDS](https://github.com/dwesh163/BONDS) | Back up namespace data to S3 with restic | Shell |
-| [outlinewiki-exporter](https://github.com/dwesh163/outlinewiki-exporter) | Prometheus exporter for Outline Wiki metrics | Go |
-| [skills](https://github.com/dwesh163/skills) | Agent skills for coding agents: Next.js conventions, commits, Docker, CI/CD and dev setup | Markdown |
+| ☸️ | **WordPress on Kubernetes** | DevOps for EPFL's WordPress sites · [details](https://duriaux.dev/projets/wordpress-kubernetes) |
+| 🔭 | **wp-veritas** | Tracks every EPFL WordPress site · lead contributor, 1,000+ commits · [details](https://duriaux.dev/projets/wp-veritas) |
 
-More on [my repositories](https://github.com/dwesh163?tab=repositories) and in the [projects section](https://duriaux.dev/projets) of my site.
+## 🚀 Open source & side projects
 
-## Stack
+| | | | |
+| --- | --- | --- | --- |
+| ☸️ | [**capi-ui**](https://github.com/dwesh163/capi-ui) | Cluster API console for OpenStack | <img src="https://skillicons.dev/icons?i=ts" height="28" alt="TypeScript" title="TypeScript"> |
+| 🧱 | [**create-stack**](https://github.com/dwesh163/create-stack) | Scaffold Next.js and Expo apps | <img src="https://skillicons.dev/icons?i=ts" height="28" alt="TypeScript" title="TypeScript"> |
+| 🎵 | [**spotosh**](https://github.com/dwesh163/spotosh) | Navidrome player with Last.fm | <img src="https://skillicons.dev/icons?i=ts" height="28" alt="TypeScript" title="TypeScript"> |
+| 🧰 | [**shed**](https://github.com/dwesh163/shed) | Kubernetes and OpenShift ops toolkit | <img src="https://skillicons.dev/icons?i=bash" height="28" alt="Shell" title="Shell"> |
+| 💾 | [**BONDS**](https://github.com/dwesh163/BONDS) | Namespace backups to S3 with restic | <img src="https://skillicons.dev/icons?i=bash" height="28" alt="Shell" title="Shell"> |
+| 📈 | [**outlinewiki-exporter**](https://github.com/dwesh163/outlinewiki-exporter) | Prometheus exporter for Outline Wiki | <img src="https://skillicons.dev/icons?i=go" height="28" alt="Go" title="Go"> |
+| 🧠 | [**skills**](https://github.com/dwesh163/skills) | Skills for coding agents | <img src="https://skillicons.dev/icons?i=md" height="28" alt="Markdown" title="Markdown"> |
+
+[All repositories →](https://github.com/dwesh163?tab=repositories)
+
+## 🛠️ Stack
 
 | | |
 | --- | --- |
-| **Languages** | TypeScript, Python, Go, Rust, Shell, PHP |
-| **Web** | React, Next.js, Angular, Express, FastAPI, Tailwind CSS, Vite |
-| **Data** | PostgreSQL, MongoDB |
-| **Infrastructure** | Kubernetes, Docker, Ansible, OpenStack, Nginx, Cloudflare, Linux |
-| **Tooling** | Git, GitHub Actions, WordPress, OpenAPI |
+| **Code** | <img src="https://skillicons.dev/icons?i=ts,py,go,rust,bash,php&theme=dark" alt="TypeScript, Python, Go, Rust, Shell, PHP"> |
+| **Web** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,express,fastapi,tailwind,vite&theme=dark" alt="React, Next.js, Angular, Express, FastAPI, Tailwind CSS, Vite"> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="PostgreSQL, MongoDB"> |
+| **Ops** | <img src="https://skillicons.dev/icons?i=kubernetes,docker,ansible,openstack,nginx,cloudflare,linux&theme=dark" alt="Kubernetes, Docker, Ansible, OpenStack, Nginx, Cloudflare, Linux"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,githubactions,wordpress&theme=dark" alt="Git, GitHub Actions, WordPress"> |
 
-## Off the clock
+## 🌄 Off the clock
 
 I self-host most of my own applications. My site follows my GitHub contributions up the Weisshorn: *une contribution, un mètre.*
 
