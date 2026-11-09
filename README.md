@@ -42,15 +42,3 @@ More on [my repositories](https://github.com/dwesh163?tab=repositories) and in t
 I self-host most of my own applications. My site follows my GitHub contributions up the Weisshorn: *une contribution, un mètre.*
 
 <img src="https://raw.githubusercontent.com/dwesh163/dwesh163/output/snake.svg" alt="Snake animation"/>
-
-<details>
-<summary>Commit badges</summary>
-
-<br>
-
-<!-- my-badges start -->
-<a href="my-badges/rebel-coder.md"><img src="https://my-badges.github.io/my-badges/rebel-coder.png" alt="I am a rebel coder." title="I am a rebel coder." width="64"></a>
-<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
-<!-- my-badges end -->
-
-</details>
