@@ -1,13 +1,50 @@
-<div align="center">
-   <h1>Hi there, I'm <a color="red">Dwesh163</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+# Ehouarn Duriaux
 
-</div>
-<br>
+Apprentice IT specialist (CFC) at [EPFL](https://www.epfl.ch), based in Switzerland. I build web applications and run the infrastructure they live on. I have been coding since I was 9.
 
-### 📖 About me
+**[duriaux.dev](https://duriaux.dev)** · [Projects](https://duriaux.dev/projets) · [Background](https://duriaux.dev/parcours) · [Contact](https://duriaux.dev/contact)
 
-Hello I am Dwesh and I live in switzerland. I am in my third year of <br>apprenticeship at <a href="https://www.epfl.ch/fr/" target="_blank">EPFL.</a>
-I love coding and. I've been <br>coding since I was 9.<br>
+## At EPFL
+
+I work on the WordPress platform that hosts EPFL's websites, from the Kubernetes deployment to the tooling around it.
+
+- **WordPress on Kubernetes**: the DevOps side of EPFL's WordPress sites ([details](https://duriaux.dev/projets/wordpress-kubernetes)).
+- **wp-veritas**: the application that tracks every WordPress site at EPFL. I am its lead contributor, with over 1,000 commits ([details](https://duriaux.dev/projets/wp-veritas)).
+
+These repositories are internal to EPFL, so the write-ups live on my site.
+
+## Open source and side projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [capi-ui](https://github.com/dwesh163/capi-ui) | Web console for Cluster API on OpenStack: clusters, machines, addons, network and events | TypeScript |
+| [create-stack](https://github.com/dwesh163/create-stack) | Interactive CLI to scaffold Next.js or Expo apps with opt-in modules | TypeScript |
+| [spotosh](https://github.com/dwesh163/spotosh) | Browse and stream music from a self-hosted Navidrome server, with Last.fm integration | TypeScript |
+| [shed](https://github.com/dwesh163/shed) | CLI toolkit for day-to-day Kubernetes and OpenShift operations | Shell |
+| [BONDS](https://github.com/dwesh163/BONDS) | Back up namespace data to S3 with restic | Shell |
+| [outlinewiki-exporter](https://github.com/dwesh163/outlinewiki-exporter) | Prometheus exporter for Outline Wiki metrics | Go |
+| [skills](https://github.com/dwesh163/skills) | Agent skills for coding agents: Next.js conventions, commits, Docker, CI/CD and dev setup | Markdown |
+
+More on [my repositories](https://github.com/dwesh163?tab=repositories) and in the [projects section](https://duriaux.dev/projets) of my site.
+
+## Stack
+
+| | |
+| --- | --- |
+| **Languages** | TypeScript, Python, Go, Rust, Shell, PHP |
+| **Web** | React, Next.js, Angular, Express, FastAPI, Tailwind CSS, Vite |
+| **Data** | PostgreSQL, MongoDB |
+| **Infrastructure** | Kubernetes, Docker, Ansible, OpenStack, Nginx, Cloudflare, Linux |
+| **Tooling** | Git, GitHub Actions, WordPress, OpenAPI |
+
+## Off the clock
+
+I self-host most of my own applications. My site follows my GitHub contributions up the Weisshorn: *une contribution, un mètre.*
+
+<img src="https://raw.githubusercontent.com/dwesh163/dwesh163/output/snake.svg" alt="Snake animation"/>
+
+<details>
+<summary>Commit badges</summary>
 
 <br>
 
@@ -16,99 +53,4 @@ I love coding and. I've been <br>coding since I was 9.<br>
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <!-- my-badges end -->
 
-### 📊 Github Stats
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dwesh163&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-
-<br>
-
-<div align="center">
-
-### 🛠️ Technologies & Tools
-
-#### 🌐 Frontend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" title="Angular" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" title="Vite" />
-
-#### 🔧 Backend & Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express.js" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" title="FastAPI" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" title="Go" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust" title="Rust" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-
-#### ☁️ DevOps & Cloud
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" title="Kubernetes" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" title="Ansible" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" title="Nginx" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="Cloudflare" title="Cloudflare" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="40" alt="OpenStack" title="OpenStack" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
-
-#### 🔨 Development Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" title="Vim" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="DataGrip" title="DataGrip" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" height="40" alt="npm" title="npm" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" title="Bash" />
-
-#### 🎨 Other Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" title="Blender" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" title="WordPress" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown" title="Markdown" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" height="40" alt="OpenAPI" title="OpenAPI" />
-</div>
-
-<img src="https://raw.githubusercontent.com/dwesh163/dwesh163/output/snake.svg" alt="Snake animation"/>
-
-</a>
-
-<br>
+</details>
