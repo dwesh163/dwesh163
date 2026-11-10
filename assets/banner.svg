@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
+  <title id="t">Ehouarn Duriaux</title>
+  <desc id="d">Apprentice IT specialist at EPFL. A climber follows a ridge up the Weisshorn: one contribution, one metre.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070b18"/>
+      <stop offset="0.55" stop-color="#141f3d"/>
+      <stop offset="1" stop-color="#2a2f5a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.72" cy="0.86" r="0.55">
+      <stop offset="0" stop-color="#f2a65a" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#f2a65a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f2a65a" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#ffd9a0"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="900" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="900" height="300" fill="url(#sky)"/>
+    <rect width="900" height="300" fill="url(#glow)"/>
+    <circle cx="294" cy="29" r="1.2" fill="#fff" opacity="0.34"><animate attributeName="opacity" values="0.34;0.08;0.34" dur="4.6s" begin="1.5s" repeatCount="indefinite"/></circle><circle cx="70" cy="21" r="1.0" fill="#fff" opacity="0.75"><animate attributeName="opacity" values="0.75;0.19;0.75" dur="3.4s" begin="0.9s" repeatCount="indefinite"/></circle><circle cx="563" cy="143" r="1.1" fill="#fff" opacity="0.52"><animate attributeName="opacity" values="0.52;0.13;0.52" dur="5.9s" begin="0.2s" repeatCount="indefinite"/></circle><circle cx="767" cy="49" r="0.7" fill="#fff" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="3.9s" begin="3.3s" repeatCount="indefinite"/></circle><circle cx="573" cy="61" r="1.1" fill="#fff" opacity="0.33"><animate attributeName="opacity" values="0.33;0.08;0.33" dur="3.2s" begin="0.8s" repeatCount="indefinite"/></circle><circle cx="609" cy="69" r="0.9" fill="#fff" opacity="0.62"><animate attributeName="opacity" values="0.62;0.16;0.62" dur="4.4s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="710" cy="107" r="0.8" fill="#fff" opacity="0.62"><animate attributeName="opacity" values="0.62;0.15;0.62" dur="4.6s" begin="3.5s" repeatCount="indefinite"/></circle><circle cx="653" cy="49" r="1.5" fill="#fff" opacity="0.36"><animate attributeName="opacity" values="0.36;0.09;0.36" dur="4.3s" begin="3.0s" repeatCount="indefinite"/></circle><circle cx="684" cy="89" r="1.4" fill="#fff" opacity="0.47"><animate attributeName="opacity" values="0.47;0.12;0.47" dur="5.1s" begin="2.4s" repeatCount="indefinite"/></circle><circle cx="521" cy="73" r="1.4" fill="#fff" opacity="0.82"></circle><circle cx="580" cy="149" r="1.3" fill="#fff" opacity="0.46"></circle><circle cx="157" cy="25" r="0.7" fill="#fff" opacity="0.72"></circle><circle cx="122" cy="43" r="1.0" fill="#fff" opacity="0.78"></circle><circle cx="494" cy="133" r="1.3" fill="#fff" opacity="0.78"></circle><circle cx="855" cy="29" r="0.8" fill="#fff" opacity="0.43"></circle><circle cx="529" cy="45" r="0.6" fill="#fff" opacity="0.53"></circle><circle cx="851" cy="106" r="1.1" fill="#fff" opacity="0.64"></circle><circle cx="606" cy="16" r="1.4" fill="#fff" opacity="0.73"></circle><circle cx="781" cy="121" r="1.0" fill="#fff" opacity="0.52"></circle><circle cx="63" cy="18" r="0.8" fill="#fff" opacity="0.39"></circle><circle cx="309" cy="15" r="0.6" fill="#fff" opacity="0.38"></circle><circle cx="98" cy="60" r="0.6" fill="#fff" opacity="0.78"></circle><circle cx="551" cy="29" r="0.8" fill="#fff" opacity="0.49"></circle><circle cx="330" cy="25" r="1.4" fill="#fff" opacity="0.85"></circle><circle cx="84" cy="23" r="0.9" fill="#fff" opacity="0.45"></circle><circle cx="741" cy="31" r="0.6" fill="#fff" opacity="0.82"></circle><circle cx="475" cy="29" r="1.1" fill="#fff" opacity="0.31"></circle><circle cx="475" cy="147" r="1.4" fill="#fff" opacity="0.68"></circle><circle cx="479" cy="119" r="0.9" fill="#fff" opacity="0.42"></circle><circle cx="725" cy="148" r="1.4" fill="#fff" opacity="0.74"></circle><circle cx="731" cy="113" r="0.8" fill="#fff" opacity="0.58"></circle><circle cx="322" cy="12" r="0.6" fill="#fff" opacity="0.45"></circle><circle cx="854" cy="72" r="1.4" fill="#fff" opacity="0.84"></circle><circle cx="852" cy="60" r="0.8" fill="#fff" opacity="0.42"></circle><circle cx="182" cy="37" r="1.2" fill="#fff" opacity="0.80"></circle><circle cx="751" cy="76" r="1.2" fill="#fff" opacity="0.74"></circle><circle cx="812" cy="119" r="1.3" fill="#fff" opacity="0.56"></circle><circle cx="867" cy="64" r="1.0" fill="#fff" opacity="0.82"></circle>
+    <path d="M0,240 L90,214 L170,226 L260,192 L350,214 L430,170 L500,196 L580,150 L660,190 L740,160 L820,190 L900,170 L900,300 L0,300 Z" fill="#1a2550"/>
+    <path d="M0,262 L120,240 L230,252 L330,222 L420,238 L500,190 L560,200 L610,120 L650,52 L690,118 L735,100 L790,160 L850,140 L900,170 L900,300 L0,300 Z" fill="#0e1633"/>
+    <path d="M650,52 L690,118 L668,150 L650,108 Z" fill="#9fb4ff" opacity="0.10"/>
+    <path d="M650,52 L624,98 L640,92 L652,106 L668,90 L690,118 Z" fill="#dfe8ff" opacity="0.22"/>
+    <path d="M0,262 L120,240 L230,252 L330,222 L420,238 L500,190 L560,200 L610,120 L650,52" fill="none" stroke="url(#trail)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="756" stroke-dashoffset="756">
+      <animate attributeName="stroke-dashoffset" values="756;0;0" keyTimes="0;0.75;1" dur="14s" repeatCount="indefinite"/>
+    </path>
+    <g>
+      <circle r="9" fill="#f2a65a" opacity="0.28"><animate attributeName="r" values="7;11;7" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle r="3.4" fill="#fff"/>
+      <animateMotion path="M0,262 L120,240 L230,252 L330,222 L420,238 L500,190 L560,200 L610,120 L650,52" keyPoints="0;1;1" keyTimes="0;0.75;1" calcMode="linear" dur="14s" repeatCount="indefinite"/>
+    </g>
+    <path d="M0,300 L0,272 L110,262 L240,274 L380,258 L520,272 L660,260 L800,274 L900,264 L900,300 Z" fill="#080d1f"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+      <text x="44" y="112" font-size="46" font-weight="700" fill="#f4f6ff" letter-spacing="-0.5">Ehouarn Duriaux</text>
+      <text x="46" y="148" font-size="19" fill="#a9b6d9">Apprentice IT specialist · EPFL</text>
+      <text x="46" y="190" font-size="17" font-style="italic" fill="#f2a65a">Une contribution, un mètre.
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1.8s" begin="0s" fill="freeze"/>
+      </text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>

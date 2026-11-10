@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="96" viewBox="0 0 400 96" role="img" aria-label="BONDS: Namespace backups to S3 with restic">
+  <style>
+    .bg { fill: #ffffff; }
+    .bd { stroke: #d0d7de; }
+    .name { fill: #1f2328; }
+    .desc { fill: #59636e; }
+    .tag { fill: #59636e; }
+    .arrow { stroke: #8c959f; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .bd { stroke: #30363d; }
+      .name { fill: #f0f6fc; }
+      .desc { fill: #9198a1; }
+      .tag { fill: #9198a1; }
+      .arrow { stroke: #6e7681; }
+    }
+  </style>
+  <defs><clipPath id="c"><rect width="400" height="96" rx="12"/></clipPath></defs>
+  <rect class="bg" width="400" height="96" rx="12"/>
+  <g clip-path="url(#c)">
+    <rect width="5" height="96" fill="#89e051"/>
+    <rect x="5" width="120" height="96" fill="#89e051" opacity="0.06"/>
+  </g>
+  <rect class="bd" x="0.5" y="0.5" width="399" height="95" rx="11.5" fill="none"/>
+  <text class="name" x="26" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="650">BONDS</text>
+  <text class="desc" x="26" y="61" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14">Namespace backups to S3 with restic</text>
+  <circle cx="30" cy="79" r="4" fill="#89e051"/>
+  <text class="tag" x="40" y="83" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5">Shell</text>
+  <path class="arrow" d="M368,30 L378,30 L378,40 M378,30 L366,42" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
