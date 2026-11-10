@@ -7,22 +7,20 @@ Apprentice IT specialist (CFC) at [EPFL](https://www.epfl.ch), based in Switzerl
 ## Projects
 
 <p align="justify">
-<a href="https://duriaux.dev/projets/wordpress-kubernetes"><img src="assets/cards/wordpress-kubernetes.svg" width="23%" alt="WordPress EPFL: DevOps for EPFL&#x27;s WordPress sites"></a>
-<a href="https://duriaux.dev/projets/wp-veritas"><img src="assets/cards/wp-veritas.svg" width="23%" alt="wp-veritas: Source of truth for every EPFL WordPress site"></a>
-<a href="https://xdew.cloud"><img src="assets/cards/xdew-cloud.svg" width="23%" alt="xdew.cloud: Managed cloud: projects, storage and identity"></a>
-<a href="https://xdew.studio"><img src="assets/cards/xdew-studio.svg" width="23%" alt="xdew.studio: Under construction"></a>
-<a href="https://kooked.ch"><img src="assets/cards/kooked.svg" width="23%" alt="kooked.ch: Self-hosted apps for our own needs"></a>
-<a href="https://github.com/dwesh163/capi-ui"><img src="assets/cards/capi-ui.svg" width="23%" alt="capi-ui: Cluster API console for OpenStack"></a>
-<a href="https://github.com/dwesh163/create-stack"><img src="assets/cards/create-stack.svg" width="23%" alt="create-stack: Scaffold Next.js and Expo apps"></a>
-<a href="https://github.com/dwesh163/shed"><img src="assets/cards/shed.svg" width="23%" alt="shed: Kubernetes and OpenShift ops toolkit"></a>
-<a href="https://github.com/dwesh163/BONDS"><img src="assets/cards/BONDS.svg" width="23%" alt="BONDS: Namespace backups to S3 with restic"></a>
-<a href="https://github.com/dwesh163/outlinewiki-exporter"><img src="assets/cards/outlinewiki-exporter.svg" width="23%" alt="outlinewiki-exporter: Prometheus exporter for Outline Wiki"></a>
-<a href="https://github.com/dwesh163/skills"><img src="assets/cards/skills.svg" width="23%" alt="skills: Skills for coding agents"></a>
-<a href="https://github.com/dwesh163/actions"><img src="assets/cards/actions.svg" width="23%" alt="actions: Reusable GitHub Actions for CI/CD"></a>
-<img src="assets/spacer.svg" width="100%" height="1" alt="">
+<a href="https://duriaux.dev/projets/wordpress-kubernetes"><img src="assets/cards/wordpress-kubernetes.svg" width="24%" alt="WordPress EPFL: DevOps for EPFL&#x27;s WordPress sites"></a>
+<a href="https://duriaux.dev/projets/wp-veritas"><img src="assets/cards/wp-veritas.svg" width="24%" alt="wp-veritas: Source of truth for every EPFL WordPress site"></a>
+<a href="https://xdew.cloud"><img src="assets/cards/xdew-cloud.svg" width="24%" alt="xdew.cloud: Managed cloud: projects, storage and identity"></a>
+<a href="https://xdew.studio"><img src="assets/cards/xdew-studio.svg" width="24%" alt="xdew.studio: Under construction"></a>
+<a href="https://kooked.ch"><img src="assets/cards/kooked.svg" width="24%" alt="kooked.ch: Self-hosted apps for our own needs"></a>
+<a href="https://github.com/dwesh163/capi-ui"><img src="assets/cards/capi-ui.svg" width="24%" alt="capi-ui: Cluster API console for OpenStack"></a>
+<a href="https://github.com/dwesh163/create-stack"><img src="assets/cards/create-stack.svg" width="24%" alt="create-stack: Scaffold Next.js and Expo apps"></a>
+<a href="https://github.com/dwesh163/shed"><img src="assets/cards/shed.svg" width="24%" alt="shed: Kubernetes and OpenShift ops toolkit"></a>
+<a href="https://github.com/dwesh163/BONDS"><img src="assets/cards/BONDS.svg" width="24%" alt="BONDS: Namespace backups to S3 with restic"></a>
+<a href="https://github.com/dwesh163/outlinewiki-exporter"><img src="assets/cards/outlinewiki-exporter.svg" width="24%" alt="outlinewiki-exporter: Prometheus exporter for Outline Wiki"></a>
+<a href="https://github.com/dwesh163/skills"><img src="assets/cards/skills.svg" width="24%" alt="skills: Skills for coding agents"></a>
+<a href="https://github.com/dwesh163/actions"><img src="assets/cards/actions.svg" width="24%" alt="actions: Reusable GitHub Actions for CI/CD"></a>
+<a href="https://github.com/dwesh163?tab=repositories">All repositories →</a>
 </p>
-
-[All repositories →](https://github.com/dwesh163?tab=repositories)
 
 ## Stack
 

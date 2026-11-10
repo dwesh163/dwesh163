@@ -1,33 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="122" viewBox="0 0 200 122" role="img" aria-label="kooked.ch: Self-hosted apps for our own needs">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="88" viewBox="0 0 200 88" role="img" aria-label="kooked.ch: Self-hosted apps for our own needs">
   <style>
     .s1 { stop-color: #ffffff; }
-    .s2 { stop-color: #f4f6f9; }
-    .bd { stroke: #d0d7de; }
-    .name { fill: #1f2328; }
-    .desc { fill: #59636e; }
-    .pill { fill: #eaeef2; }
-    .tag { fill: #4d5761; }
-    .arrow { stroke: #8c959f; }
+    .s2 { stop-color: #f5f7fb; }
+    .bd { stroke: #d0d7e2; }
+    .name { fill: #1b2233; }
+    .desc { fill: #535d78; }
+    .lang { fill: #5a6480; }
+    .arrow { stroke: #7d88a6; }
     @media (prefers-color-scheme: dark) {
-      .s1 { stop-color: #151b23; }
-      .s2 { stop-color: #0d1117; }
-      .bd { stroke: #30363d; }
-      .name { fill: #f0f6fc; }
-      .desc { fill: #9198a1; }
-      .pill { fill: #212830; }
-      .tag { fill: #b1bac4; }
-      .arrow { stroke: #6e7681; }
+      .s1 { stop-color: #151b27; }
+      .s2 { stop-color: #0f141d; }
+      .bd { stroke: #2a3345; }
+      .name { fill: #f1f4ff; }
+      .desc { fill: #a3aed0; }
+      .lang { fill: #9aa6c8; }
+      .arrow { stroke: #7080a8; }
     }
   </style>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop class="s1" offset="0"/><stop class="s2" offset="1"/></linearGradient>
   </defs>
-  <rect class="bd" x="0.5" y="0.5" width="199" height="107" rx="12" fill="url(#g)"/>
-  <path class="arrow" d="M172,16 L182,16 L182,26 M182,16 L170,28" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <text class="name" x="16" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="650">kooked.ch</text>
-  <text class="desc" x="16" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5">Self-hosted apps for our</text>
-  <text class="desc" x="16" y="73" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5">own needs</text>
-  <rect class="pill" x="16" y="82" width="75" height="18" rx="9"/>
-  <circle cx="26" cy="91" r="3" fill="#2dd4bf"/>
-  <text class="tag" x="35" y="94.6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5">Platform</text>
+  <rect class="bd" x="0.5" y="0.5" width="199" height="81" rx="11" fill="url(#g)"/>
+  <path class="arrow" d="M180,19 L187,12 M181,12 L187,12 L187,18" fill="none" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="name" x="16" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="650">kooked.ch</text>
+  <text class="desc" x="16" y="43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5">Self-hosted apps</text>
+  <text class="desc" x="16" y="57" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5">for our own needs</text>
+  <circle cx="19" cy="71" r="3" fill="#2dd4bf"/>
+  <text class="lang" x="27" y="74.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11">Platform</text>
 </svg>
