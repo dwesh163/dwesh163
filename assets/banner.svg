@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
   <title id="t">Ehouarn Duriaux</title>
-  <desc id="d">Apprentice IT specialist at EPFL. A climber follows a ridge up the Weisshorn: one contribution, one metre.</desc>
+  <desc id="d">Apprentice IT specialist at EPFL. A climber follows a ridge up the Weisshorn.</desc>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#070b18"/>
@@ -35,11 +35,8 @@
     </g>
     <path d="M0,300 L0,272 L110,262 L240,274 L380,258 L520,272 L660,260 L800,274 L900,264 L900,300 Z" fill="#080d1f"/>
     <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
-      <text x="44" y="112" font-size="46" font-weight="700" fill="#f4f6ff" letter-spacing="-0.5">Ehouarn Duriaux</text>
-      <text x="46" y="148" font-size="19" fill="#a9b6d9">Apprentice IT specialist · EPFL</text>
-      <text x="46" y="190" font-size="17" font-style="italic" fill="#f2a65a">Une contribution, un mètre.
-        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1.8s" begin="0s" fill="freeze"/>
-      </text>
+      <text x="44" y="140" font-size="46" font-weight="700" fill="#f4f6ff" letter-spacing="-0.5">Ehouarn Duriaux</text>
+      <text x="46" y="178" font-size="19" fill="#a9b6d9">Apprentice IT specialist · EPFL</text>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="899" height="299" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>

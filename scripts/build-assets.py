@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the SVG assets used by README.md (banner and project cards).
+"""Generate the SVG assets used by README.md (banner, project cards, spacer).
 
 Run from anywhere: python3 scripts/build-assets.py
 Output goes to assets/ next to this scripts/ directory.
@@ -7,6 +7,7 @@ Output goes to assets/ next to this scripts/ directory.
 
 import math
 import random
+import textwrap
 from html import escape
 from pathlib import Path
 
@@ -60,7 +61,7 @@ def banner():
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{BANNER_W}" height="{BANNER_H}" viewBox="0 0 {BANNER_W} {BANNER_H}" role="img" aria-labelledby="t d">
   <title id="t">Ehouarn Duriaux</title>
-  <desc id="d">Apprentice IT specialist at EPFL. A climber follows a ridge up the Weisshorn: one contribution, one metre.</desc>
+  <desc id="d">Apprentice IT specialist at EPFL. A climber follows a ridge up the Weisshorn.</desc>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#070b18"/>
@@ -95,11 +96,8 @@ def banner():
     </g>
     <path d="M0,300 L0,272 L110,262 L240,274 L380,258 L520,272 L660,260 L800,274 L900,264 L900,300 Z" fill="#080d1f"/>
     <g font-family="{SANS}">
-      <text x="44" y="112" font-size="46" font-weight="700" fill="#f4f6ff" letter-spacing="-0.5">Ehouarn Duriaux</text>
-      <text x="46" y="148" font-size="19" fill="#a9b6d9">Apprentice IT specialist · EPFL</text>
-      <text x="46" y="190" font-size="17" font-style="italic" fill="{ACCENT}">Une contribution, un mètre.
-        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1.8s" begin="0s" fill="freeze"/>
-      </text>
+      <text x="44" y="140" font-size="46" font-weight="700" fill="#f4f6ff" letter-spacing="-0.5">Ehouarn Duriaux</text>
+      <text x="46" y="178" font-size="19" fill="#a9b6d9">Apprentice IT specialist · EPFL</text>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="{BANNER_W - 1}" height="{BANNER_H - 1}" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
@@ -109,21 +107,30 @@ def banner():
 
 # ----------------------------------------------------------------- cards
 
-CARD_W, CARD_H = 400, 96
+# The card body is CARD_H tall; CARD_GAP is transparent room underneath that
+# gives the rows some air, since the README cannot use CSS margins.
+CARD_W, CARD_H, CARD_GAP = 200, 108, 14
 
 EPFL_RED = "#e2001a"
+PLATFORM = "#2dd4bf"
+SOON = "#8b949e"
+
 PROJECTS = [
-    # slug, name, description, tag, colour, url
-    ("wordpress-kubernetes", "WordPress on Kubernetes", "DevOps for EPFL's WordPress sites",
-     "EPFL · internal", EPFL_RED, "https://duriaux.dev/projets/wordpress-kubernetes"),
-    ("wp-veritas", "wp-veritas", "Tracks every EPFL WordPress site",
-     "EPFL · lead contributor, 1,000+ commits", EPFL_RED, "https://duriaux.dev/projets/wp-veritas"),
+    # slug, name, description, tag, dot colour, url
+    ("wordpress-kubernetes", "WordPress EPFL", "DevOps for EPFL's WordPress sites",
+     "EPFL", EPFL_RED, "https://duriaux.dev/projets/wordpress-kubernetes"),
+    ("wp-veritas", "wp-veritas", "Source of truth for every EPFL WordPress site",
+     "EPFL", EPFL_RED, "https://duriaux.dev/projets/wp-veritas"),
+    ("xdew-cloud", "xdew.cloud", "Managed cloud: projects, storage and identity",
+     "Platform", PLATFORM, "https://xdew.cloud"),
+    ("xdew-studio", "xdew.studio", "Under construction",
+     "Soon", SOON, "https://xdew.studio"),
+    ("kooked", "kooked.ch", "Self-hosted apps for our own needs",
+     "Platform", PLATFORM, "https://kooked.ch"),
     ("capi-ui", "capi-ui", "Cluster API console for OpenStack",
      "TypeScript", "#3178c6", "https://github.com/dwesh163/capi-ui"),
     ("create-stack", "create-stack", "Scaffold Next.js and Expo apps",
      "TypeScript", "#3178c6", "https://github.com/dwesh163/create-stack"),
-    ("spotosh", "spotosh", "Navidrome player with Last.fm",
-     "TypeScript", "#3178c6", "https://github.com/dwesh163/spotosh"),
     ("shed", "shed", "Kubernetes and OpenShift ops toolkit",
      "Shell", "#89e051", "https://github.com/dwesh163/shed"),
     ("BONDS", "BONDS", "Namespace backups to S3 with restic",
@@ -138,46 +145,66 @@ PROJECTS = [
 
 
 def card(name, desc, tag, colour):
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{CARD_W}" height="{CARD_H}" viewBox="0 0 {CARD_W} {CARD_H}" role="img" aria-label="{escape(name)}: {escape(desc)}">
+    total_h = CARD_H + CARD_GAP
+    name_size = 12.5 if len(name) > 17 else 14.5
+    lines = textwrap.wrap(desc, width=26)[:2]
+    desc_svg = "\n  ".join(
+        f'<text class="desc" x="16" y="{58 + 15 * i}" font-family="{SANS}" font-size="11.5">{escape(line)}</text>'
+        for i, line in enumerate(lines)
+    )
+    pill_w = round(len(tag) * 6.3 + 25)
+    pill_y = 82
+
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{CARD_W}" height="{total_h}" viewBox="0 0 {CARD_W} {total_h}" role="img" aria-label="{escape(name)}: {escape(desc)}">
   <style>
-    .bg {{ fill: #ffffff; }}
+    .s1 {{ stop-color: #ffffff; }}
+    .s2 {{ stop-color: #f4f6f9; }}
     .bd {{ stroke: #d0d7de; }}
     .name {{ fill: #1f2328; }}
     .desc {{ fill: #59636e; }}
-    .tag {{ fill: #59636e; }}
+    .pill {{ fill: #eaeef2; }}
+    .tag {{ fill: #4d5761; }}
     .arrow {{ stroke: #8c959f; }}
     @media (prefers-color-scheme: dark) {{
-      .bg {{ fill: #0d1117; }}
+      .s1 {{ stop-color: #151b23; }}
+      .s2 {{ stop-color: #0d1117; }}
       .bd {{ stroke: #30363d; }}
       .name {{ fill: #f0f6fc; }}
       .desc {{ fill: #9198a1; }}
-      .tag {{ fill: #9198a1; }}
+      .pill {{ fill: #212830; }}
+      .tag {{ fill: #b1bac4; }}
       .arrow {{ stroke: #6e7681; }}
     }}
   </style>
-  <defs><clipPath id="c"><rect width="{CARD_W}" height="{CARD_H}" rx="12"/></clipPath></defs>
-  <rect class="bg" width="{CARD_W}" height="{CARD_H}" rx="12"/>
-  <g clip-path="url(#c)">
-    <rect width="5" height="{CARD_H}" fill="{colour}"/>
-    <rect x="5" width="120" height="{CARD_H}" fill="{colour}" opacity="0.06"/>
-  </g>
-  <rect class="bd" x="0.5" y="0.5" width="{CARD_W - 1}" height="{CARD_H - 1}" rx="11.5" fill="none"/>
-  <text class="name" x="26" y="38" font-family="{SANS}" font-size="18" font-weight="650">{escape(name)}</text>
-  <text class="desc" x="26" y="61" font-family="{SANS}" font-size="14">{escape(desc)}</text>
-  <circle cx="30" cy="79" r="4" fill="{colour}"/>
-  <text class="tag" x="40" y="83" font-family="{MONO}" font-size="11.5">{escape(tag)}</text>
-  <path class="arrow" d="M368,30 L378,30 L378,40 M378,30 L366,42" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop class="s1" offset="0"/><stop class="s2" offset="1"/></linearGradient>
+  </defs>
+  <rect class="bd" x="0.5" y="0.5" width="{CARD_W - 1}" height="{CARD_H - 1}" rx="12" fill="url(#g)"/>
+  <path class="arrow" d="M172,16 L182,16 L182,26 M182,16 L170,28" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="name" x="16" y="40" font-family="{SANS}" font-size="{name_size}" font-weight="650">{escape(name)}</text>
+  {desc_svg}
+  <rect class="pill" x="16" y="{pill_y}" width="{pill_w}" height="18" rx="9"/>
+  <circle cx="26" cy="{pill_y + 9}" r="3" fill="{colour}"/>
+  <text class="tag" x="35" y="{pill_y + 12.6}" font-family="{MONO}" font-size="10.5">{escape(tag)}</text>
 </svg>
 """
+
+
+SPACER = '<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1" viewBox="0 0 1 1"/>\n'
 
 
 def main():
     OUT.mkdir(exist_ok=True)
     CARDS.mkdir(exist_ok=True)
     (OUT / "banner.svg").write_text(banner(), encoding="utf-8")
+    (OUT / "spacer.svg").write_text(SPACER, encoding="utf-8")
+    keep = {f"{p[0]}.svg" for p in PROJECTS}
+    for old in CARDS.glob("*.svg"):
+        if old.name not in keep:
+            old.unlink()
     for slug, name, desc, tag, colour, _ in PROJECTS:
         (CARDS / f"{slug}.svg").write_text(card(name, desc, tag, colour), encoding="utf-8")
-    print(f"wrote banner.svg and {len(PROJECTS)} cards to {OUT}")
+    print(f"wrote banner.svg, spacer.svg and {len(PROJECTS)} cards to {OUT}")
 
 
 if __name__ == "__main__":
